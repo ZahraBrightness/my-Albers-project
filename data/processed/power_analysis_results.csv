@@ -1,0 +1,9 @@
+method,effect_size,effect_label,your_n,power,required_n_for_80pct
+XGBoost,0.2,Small,1902,1.0,394
+DiD,0.2,Small,12,0.0755,394
+XGBoost,0.3,Med-S,1902,1.0,176
+DiD,0.3,Med-S,12,0.1083,176
+XGBoost,0.5,Medium,1902,1.0,64
+DiD,0.5,Medium,12,0.2161,64
+XGBoost,0.8,Large,1902,1.0,26
+DiD,0.8,Large,12,0.4658,26

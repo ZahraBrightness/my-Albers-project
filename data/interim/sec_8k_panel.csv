@@ -1,0 +1,880 @@
+CIK,Company Name,Form Type,date_filed,Filename,Year,Quarter,Filing URL,ticker
+1043951,CAMPBELL FUND TRUST,8-K,2023-07-07,edgar/data/1043951/0001140361-23-033721.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1043951/0001140361-23-033721.txt,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2023-08-04,edgar/data/1043951/0001140361-23-038060.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1043951/0001140361-23-038060.txt,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2023-09-08,edgar/data/1043951/0001140361-23-043310.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1043951/0001140361-23-043310.txt,CPB
+106640,WHIRLPOOL CORP /DE/,8-K,2023-07-24,edgar/data/106640/0000106640-23-000112.txt,2023,3,https://www.sec.gov/Archives/edgar/data/106640/0000106640-23-000112.txt,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2023-08-15,edgar/data/106640/0001193125-23-212922.txt,2023,3,https://www.sec.gov/Archives/edgar/data/106640/0001193125-23-212922.txt,WHR
+1103982,"Mondelez International, Inc.",8-K,2023-07-20,edgar/data/1103982/0001103982-23-000034.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1103982/0001103982-23-000034.txt,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2023-07-27,edgar/data/1103982/0001103982-23-000041.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1103982/0001103982-23-000041.txt,MDLZ
+1528849,RH,8-K/A,2023-09-11,edgar/data/1528849/0001558370-23-015615.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1528849/0001558370-23-015615.txt,RH
+1528849,RH,8-K,2023-07-06,edgar/data/1528849/0001558370-23-011723.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1528849/0001558370-23-011723.txt,RH
+1528849,RH,8-K,2023-09-06,edgar/data/1528849/0001558370-23-015502.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1528849/0001558370-23-015502.txt,RH
+1528849,RH,8-K,2023-09-07,edgar/data/1528849/0001558370-23-015550.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1528849/0001558370-23-015550.txt,RH
+1528849,RH,8-K,2023-09-26,edgar/data/1528849/0001558370-23-016051.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1528849/0001558370-23-016051.txt,RH
+1616707,Wayfair Inc.,8-K,2023-08-03,edgar/data/1616707/0001616707-23-000094.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1616707/0001616707-23-000094.txt,W
+1637459,Kraft Heinz Co,8-K,2023-07-21,edgar/data/1637459/0001193125-23-191346.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1637459/0001193125-23-191346.txt,KHC
+1637459,Kraft Heinz Co,8-K,2023-08-02,edgar/data/1637459/0001637459-23-000110.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1637459/0001637459-23-000110.txt,KHC
+1637459,Kraft Heinz Co,8-K,2023-08-14,edgar/data/1637459/0001193125-23-211537.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1637459/0001193125-23-211537.txt,KHC
+16732,CAMPBELL SOUP CO,8-K,2023-08-07,edgar/data/16732/0000950103-23-011620.txt,2023,3,https://www.sec.gov/Archives/edgar/data/16732/0000950103-23-011620.txt,CPB
+16732,CAMPBELL SOUP CO,8-K,2023-08-24,edgar/data/16732/0001193125-23-220092.txt,2023,3,https://www.sec.gov/Archives/edgar/data/16732/0001193125-23-220092.txt,CPB
+16732,CAMPBELL SOUP CO,8-K,2023-08-31,edgar/data/16732/0000016732-23-000105.txt,2023,3,https://www.sec.gov/Archives/edgar/data/16732/0000016732-23-000105.txt,CPB
+1678848,CAMPBELL INTERNATIONAL HOLDING CORP.,8-K,2023-07-11,edgar/data/1678848/0001213900-23-056049.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1678848/0001213900-23-056049.txt,CPB
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2023-07-20,edgar/data/1737924/0001628280-23-025256.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-23-025256.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2023-08-10,edgar/data/1737924/0001628280-23-028775.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-23-028775.txt,CHD
+1786431,Reynolds Consumer Products Inc.,8-K,2023-08-09,edgar/data/1786431/0001628280-23-028395.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1786431/0001628280-23-028395.txt,REYN
+1786431,Reynolds Consumer Products Inc.,8-K,2023-09-27,edgar/data/1786431/0001628280-23-033105.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1786431/0001628280-23-033105.txt,REYN
+1828248,Churchill Capital Corp VII,8-K,2023-08-01,edgar/data/1828248/0001104659-23-086110.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1828248/0001104659-23-086110.txt,CHD
+1828248,Churchill Capital Corp VII,8-K,2023-08-07,edgar/data/1828248/0001104659-23-087944.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1828248/0001104659-23-087944.txt,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2023-08-01,edgar/data/1911066/0001628280-23-026312.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1911066/0001628280-23-026312.txt,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2023-08-28,edgar/data/1911066/0001628280-23-030738.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1911066/0001628280-23-030738.txt,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2023-09-29,edgar/data/1911066/0001628280-23-033247.txt,2023,3,https://www.sec.gov/Archives/edgar/data/1911066/0001628280-23-033247.txt,CHD
+200406,JOHNSON & JOHNSON,8-K,2023-07-20,edgar/data/200406/0000200406-23-000073.txt,2023,3,https://www.sec.gov/Archives/edgar/data/200406/0000200406-23-000073.txt,JNJ
+200406,JOHNSON & JOHNSON,8-K,2023-07-24,edgar/data/200406/0001628280-23-025388.txt,2023,3,https://www.sec.gov/Archives/edgar/data/200406/0001628280-23-025388.txt,JNJ
+200406,JOHNSON & JOHNSON,8-K,2023-07-28,edgar/data/200406/0001628280-23-026095.txt,2023,3,https://www.sec.gov/Archives/edgar/data/200406/0001628280-23-026095.txt,JNJ
+200406,JOHNSON & JOHNSON,8-K,2023-08-25,edgar/data/200406/0000200406-23-000086.txt,2023,3,https://www.sec.gov/Archives/edgar/data/200406/0000200406-23-000086.txt,JNJ
+200406,JOHNSON & JOHNSON,8-K,2023-08-30,edgar/data/200406/0000200406-23-000091.txt,2023,3,https://www.sec.gov/Archives/edgar/data/200406/0000200406-23-000091.txt,JNJ
+20212,Churchill Downs Inc,8-K,2023-07-26,edgar/data/20212/0000020212-23-000113.txt,2023,3,https://www.sec.gov/Archives/edgar/data/20212/0000020212-23-000113.txt,CHD
+20212,Churchill Downs Inc,8-K,2023-08-22,edgar/data/20212/0000020212-23-000118.txt,2023,3,https://www.sec.gov/Archives/edgar/data/20212/0000020212-23-000118.txt,CHD
+21076,CLOROX CO /DE/,8-K,2023-07-26,edgar/data/21076/0001206774-23-000820.txt,2023,3,https://www.sec.gov/Archives/edgar/data/21076/0001206774-23-000820.txt,CLX
+21076,CLOROX CO /DE/,8-K,2023-08-02,edgar/data/21076/0000021076-23-000030.txt,2023,3,https://www.sec.gov/Archives/edgar/data/21076/0000021076-23-000030.txt,CLX
+21076,CLOROX CO /DE/,8-K,2023-08-14,edgar/data/21076/0001206774-23-000969.txt,2023,3,https://www.sec.gov/Archives/edgar/data/21076/0001206774-23-000969.txt,CLX
+21076,CLOROX CO /DE/,8-K,2023-09-18,edgar/data/21076/0001206774-23-001133.txt,2023,3,https://www.sec.gov/Archives/edgar/data/21076/0001206774-23-001133.txt,CLX
+21344,COCA COLA CO,8-K,2023-07-19,edgar/data/21344/0000021344-23-000041.txt,2023,3,https://www.sec.gov/Archives/edgar/data/21344/0000021344-23-000041.txt,KO
+21344,COCA COLA CO,8-K,2023-07-26,edgar/data/21344/0000021344-23-000045.txt,2023,3,https://www.sec.gov/Archives/edgar/data/21344/0000021344-23-000045.txt,KO
+21665,COLGATE PALMOLIVE CO,8-K,2023-07-28,edgar/data/21665/0001157523-23-001178.txt,2023,3,https://www.sec.gov/Archives/edgar/data/21665/0001157523-23-001178.txt,CL
+21665,COLGATE PALMOLIVE CO,8-K,2023-08-18,edgar/data/21665/0001157523-23-001351.txt,2023,3,https://www.sec.gov/Archives/edgar/data/21665/0001157523-23-001351.txt,CL
+21665,COLGATE PALMOLIVE CO,8-K,2023-09-15,edgar/data/21665/0000021665-23-000034.txt,2023,3,https://www.sec.gov/Archives/edgar/data/21665/0000021665-23-000034.txt,CL
+23217,CONAGRA BRANDS INC.,8-K,2023-07-13,edgar/data/23217/0001437749-23-019832.txt,2023,3,https://www.sec.gov/Archives/edgar/data/23217/0001437749-23-019832.txt,CAG
+23217,CONAGRA BRANDS INC.,8-K,2023-07-20,edgar/data/23217/0001437749-23-020337.txt,2023,3,https://www.sec.gov/Archives/edgar/data/23217/0001437749-23-020337.txt,CAG
+23217,CONAGRA BRANDS INC.,8-K,2023-07-31,edgar/data/23217/0001193125-23-198810.txt,2023,3,https://www.sec.gov/Archives/edgar/data/23217/0001193125-23-198810.txt,CAG
+23217,CONAGRA BRANDS INC.,8-K,2023-07-31,edgar/data/23217/0001437749-23-021179.txt,2023,3,https://www.sec.gov/Archives/edgar/data/23217/0001437749-23-021179.txt,CAG
+23217,CONAGRA BRANDS INC.,8-K,2023-09-19,edgar/data/23217/0001437749-23-026333.txt,2023,3,https://www.sec.gov/Archives/edgar/data/23217/0001437749-23-026333.txt,CAG
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2023-07-28,edgar/data/313927/0000950170-23-035289.txt,2023,3,https://www.sec.gov/Archives/edgar/data/313927/0000950170-23-035289.txt,CHD
+40704,GENERAL MILLS INC,8-K,2023-09-20,edgar/data/40704/0001193125-23-238038.txt,2023,3,https://www.sec.gov/Archives/edgar/data/40704/0001193125-23-238038.txt,GIS
+40704,GENERAL MILLS INC,8-K,2023-09-29,edgar/data/40704/0001193125-23-247516.txt,2023,3,https://www.sec.gov/Archives/edgar/data/40704/0001193125-23-247516.txt,GIS
+47111,HERSHEY CO,8-K/A,2023-08-11,edgar/data/47111/0000047111-23-000060.txt,2023,3,https://www.sec.gov/Archives/edgar/data/47111/0000047111-23-000060.txt,HSY
+47111,HERSHEY CO,8-K,2023-07-27,edgar/data/47111/0000047111-23-000055.txt,2023,3,https://www.sec.gov/Archives/edgar/data/47111/0000047111-23-000055.txt,HSY
+55785,KIMBERLY CLARK CORP,8-K,2023-07-25,edgar/data/55785/0000055785-23-000053.txt,2023,3,https://www.sec.gov/Archives/edgar/data/55785/0000055785-23-000053.txt,KMB
+55785,KIMBERLY CLARK CORP,8-K,2023-09-13,edgar/data/55785/0000055785-23-000057.txt,2023,3,https://www.sec.gov/Archives/edgar/data/55785/0000055785-23-000057.txt,KMB
+63276,MATTEL INC /DE/,8-K/A,2023-09-15,edgar/data/63276/0001628280-23-032372.txt,2023,3,https://www.sec.gov/Archives/edgar/data/63276/0001628280-23-032372.txt,MAT
+63276,MATTEL INC /DE/,8-K,2023-07-26,edgar/data/63276/0001628280-23-025710.txt,2023,3,https://www.sec.gov/Archives/edgar/data/63276/0001628280-23-025710.txt,MAT
+63276,MATTEL INC /DE/,8-K,2023-09-15,edgar/data/63276/0001628280-23-032368.txt,2023,3,https://www.sec.gov/Archives/edgar/data/63276/0001628280-23-032368.txt,MAT
+66740,3M CO,8-K,2023-07-10,edgar/data/66740/0000066740-23-000051.txt,2023,3,https://www.sec.gov/Archives/edgar/data/66740/0000066740-23-000051.txt,MMM
+66740,3M CO,8-K,2023-07-25,edgar/data/66740/0000066740-23-000056.txt,2023,3,https://www.sec.gov/Archives/edgar/data/66740/0000066740-23-000056.txt,MMM
+66740,3M CO,8-K,2023-08-11,edgar/data/66740/0000066740-23-000065.txt,2023,3,https://www.sec.gov/Archives/edgar/data/66740/0000066740-23-000065.txt,MMM
+66740,3M CO,8-K,2023-08-22,edgar/data/66740/0000066740-23-000069.txt,2023,3,https://www.sec.gov/Archives/edgar/data/66740/0000066740-23-000069.txt,MMM
+66740,3M CO,8-K,2023-08-29,edgar/data/66740/0000066740-23-000073.txt,2023,3,https://www.sec.gov/Archives/edgar/data/66740/0000066740-23-000073.txt,MMM
+66740,3M CO,8-K,2023-09-18,edgar/data/66740/0000066740-23-000076.txt,2023,3,https://www.sec.gov/Archives/edgar/data/66740/0000066740-23-000076.txt,MMM
+66740,3M CO,8-K,2023-09-25,edgar/data/66740/0000066740-23-000080.txt,2023,3,https://www.sec.gov/Archives/edgar/data/66740/0000066740-23-000080.txt,MMM
+719955,WILLIAMS SONOMA INC,8-K,2023-08-23,edgar/data/719955/0001628280-23-030310.txt,2023,3,https://www.sec.gov/Archives/edgar/data/719955/0001628280-23-030310.txt,WSM
+746598,BRADY CORP,8-K,2023-09-05,edgar/data/746598/0000746598-23-000056.txt,2023,3,https://www.sec.gov/Archives/edgar/data/746598/0000746598-23-000056.txt,BRC
+746598,BRADY CORP,8-K,2023-09-05,edgar/data/746598/0000746598-23-000064.txt,2023,3,https://www.sec.gov/Archives/edgar/data/746598/0000746598-23-000064.txt,BRC
+77476,PEPSICO INC,8-K,2023-07-13,edgar/data/77476/0000077476-23-000048.txt,2023,3,https://www.sec.gov/Archives/edgar/data/77476/0000077476-23-000048.txt,PEP
+788329,JOHNSON OUTDOORS INC,8-K,2023-08-03,edgar/data/788329/0001171843-23-004949.txt,2023,3,https://www.sec.gov/Archives/edgar/data/788329/0001171843-23-004949.txt,JNJ
+788329,JOHNSON OUTDOORS INC,8-K,2023-09-29,edgar/data/788329/0001171843-23-005939.txt,2023,3,https://www.sec.gov/Archives/edgar/data/788329/0001171843-23-005939.txt,JNJ
+80424,PROCTER & GAMBLE Co,8-K,2023-07-11,edgar/data/80424/0000080424-23-000056.txt,2023,3,https://www.sec.gov/Archives/edgar/data/80424/0000080424-23-000056.txt,PG
+80424,PROCTER & GAMBLE Co,8-K,2023-07-28,edgar/data/80424/0000080424-23-000059.txt,2023,3,https://www.sec.gov/Archives/edgar/data/80424/0000080424-23-000059.txt,PG
+80424,PROCTER & GAMBLE Co,8-K,2023-07-28,edgar/data/80424/0000080424-23-000061.txt,2023,3,https://www.sec.gov/Archives/edgar/data/80424/0000080424-23-000061.txt,PG
+814453,NEWELL BRANDS INC.,8-K,2023-07-28,edgar/data/814453/0000814453-23-000135.txt,2023,3,https://www.sec.gov/Archives/edgar/data/814453/0000814453-23-000135.txt,NWL
+814453,NEWELL BRANDS INC.,8-K,2023-08-11,edgar/data/814453/0001193125-23-210755.txt,2023,3,https://www.sec.gov/Archives/edgar/data/814453/0001193125-23-210755.txt,NWL
+814453,NEWELL BRANDS INC.,8-K,2023-09-18,edgar/data/814453/0001193125-23-236626.txt,2023,3,https://www.sec.gov/Archives/edgar/data/814453/0001193125-23-236626.txt,NWL
+814453,NEWELL BRANDS INC.,8-K,2023-09-29,edgar/data/814453/0001193125-23-246536.txt,2023,3,https://www.sec.gov/Archives/edgar/data/814453/0001193125-23-246536.txt,NWL
+833444,Johnson Controls International plc,8-K,2023-08-02,edgar/data/833444/0000833444-23-000028.txt,2023,3,https://www.sec.gov/Archives/edgar/data/833444/0000833444-23-000028.txt,JNJ
+833444,Johnson Controls International plc,8-K,2023-08-07,edgar/data/833444/0001193125-23-205014.txt,2023,3,https://www.sec.gov/Archives/edgar/data/833444/0001193125-23-205014.txt,JNJ
+833444,Johnson Controls International plc,8-K,2023-08-21,edgar/data/833444/0001193125-23-217018.txt,2023,3,https://www.sec.gov/Archives/edgar/data/833444/0001193125-23-217018.txt,JNJ
+833444,Johnson Controls International plc,8-K,2023-09-08,edgar/data/833444/0000833444-23-000033.txt,2023,3,https://www.sec.gov/Archives/edgar/data/833444/0000833444-23-000033.txt,JNJ
+833444,Johnson Controls International plc,8-K,2023-09-27,edgar/data/833444/0000833444-23-000036.txt,2023,3,https://www.sec.gov/Archives/edgar/data/833444/0000833444-23-000036.txt,JNJ
+916789,HELEN OF TROY LTD,8-K,2023-07-12,edgar/data/916789/0000916789-23-000035.txt,2023,3,https://www.sec.gov/Archives/edgar/data/916789/0000916789-23-000035.txt,HELE
+916789,HELEN OF TROY LTD,8-K,2023-08-22,edgar/data/916789/0000916789-23-000040.txt,2023,3,https://www.sec.gov/Archives/edgar/data/916789/0000916789-23-000040.txt,HELE
+1043951,CAMPBELL FUND TRUST,8-K,2023-10-04,edgar/data/1043951/0001140361-23-046878.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1043951/0001140361-23-046878.txt,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2023-11-06,edgar/data/1043951/0001140361-23-051560.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1043951/0001140361-23-051560.txt,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2023-12-06,edgar/data/1043951/0001140361-23-056492.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1043951/0001140361-23-056492.txt,CPB
+106640,WHIRLPOOL CORP /DE/,8-K,2023-10-25,edgar/data/106640/0000106640-23-000128.txt,2023,4,https://www.sec.gov/Archives/edgar/data/106640/0000106640-23-000128.txt,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2023-11-30,edgar/data/106640/0001193125-23-285465.txt,2023,4,https://www.sec.gov/Archives/edgar/data/106640/0001193125-23-285465.txt,WHR
+1103982,"Mondelez International, Inc.",8-K,2023-10-10,edgar/data/1103982/0001103982-23-000055.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1103982/0001103982-23-000055.txt,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2023-10-18,edgar/data/1103982/0001193125-23-258473.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1103982/0001193125-23-258473.txt,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2023-11-01,edgar/data/1103982/0001103982-23-000073.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1103982/0001103982-23-000073.txt,MDLZ
+1528849,RH,8-K,2023-12-07,edgar/data/1528849/0001558370-23-019626.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1528849/0001558370-23-019626.txt,RH
+1616707,Wayfair Inc.,8-K,2023-11-01,edgar/data/1616707/0001616707-23-000104.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1616707/0001616707-23-000104.txt,W
+1637459,Kraft Heinz Co,8-K,2023-11-01,edgar/data/1637459/0001637459-23-000141.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1637459/0001637459-23-000141.txt,KHC
+1637459,Kraft Heinz Co,8-K,2023-11-27,edgar/data/1637459/0001193125-23-282971.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1637459/0001193125-23-282971.txt,KHC
+16732,CAMPBELL SOUP CO,8-K,2023-10-11,edgar/data/16732/0001193125-23-253873.txt,2023,4,https://www.sec.gov/Archives/edgar/data/16732/0001193125-23-253873.txt,CPB
+16732,CAMPBELL SOUP CO,8-K,2023-10-23,edgar/data/16732/0000950103-23-015254.txt,2023,4,https://www.sec.gov/Archives/edgar/data/16732/0000950103-23-015254.txt,CPB
+16732,CAMPBELL SOUP CO,8-K,2023-11-08,edgar/data/16732/0000016732-23-000161.txt,2023,4,https://www.sec.gov/Archives/edgar/data/16732/0000016732-23-000161.txt,CPB
+16732,CAMPBELL SOUP CO,8-K,2023-12-01,edgar/data/16732/0000016732-23-000166.txt,2023,4,https://www.sec.gov/Archives/edgar/data/16732/0000016732-23-000166.txt,CPB
+16732,CAMPBELL SOUP CO,8-K,2023-12-06,edgar/data/16732/0000016732-23-000174.txt,2023,4,https://www.sec.gov/Archives/edgar/data/16732/0000016732-23-000174.txt,CPB
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2023-11-07,edgar/data/1737924/0001628280-23-037234.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-23-037234.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2023-11-27,edgar/data/1737924/0001628280-23-040035.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-23-040035.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2023-12-12,edgar/data/1737924/0001628280-23-041321.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-23-041321.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2023-12-14,edgar/data/1737924/0001628280-23-041606.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-23-041606.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2023-12-18,edgar/data/1737924/0001628280-23-041759.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-23-041759.txt,CHD
+1786431,Reynolds Consumer Products Inc.,8-K,2023-10-12,edgar/data/1786431/0001193125-23-254985.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1786431/0001193125-23-254985.txt,REYN
+1786431,Reynolds Consumer Products Inc.,8-K,2023-11-08,edgar/data/1786431/0001628280-23-037544.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1786431/0001628280-23-037544.txt,REYN
+1786431,Reynolds Consumer Products Inc.,8-K,2023-11-21,edgar/data/1786431/0001193125-23-281588.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1786431/0001193125-23-281588.txt,REYN
+1812234,Churchill Capital Corp V,8-K,2023-10-02,edgar/data/1812234/0000950142-23-002525.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1812234/0000950142-23-002525.txt,CHD
+1828248,Churchill Capital Corp VII,8-K,2023-11-17,edgar/data/1828248/0001104659-23-119294.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1828248/0001104659-23-119294.txt,CHD
+1828248,Churchill Capital Corp VII,8-K,2023-12-20,edgar/data/1828248/0001104659-23-127478.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1828248/0001104659-23-127478.txt,CHD
+1828248,Churchill Capital Corp VII,8-K,2023-12-26,edgar/data/1828248/0001104659-23-129191.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1828248/0001104659-23-129191.txt,CHD
+1828250,Churchill Capital Corp VI,8-K,2023-11-17,edgar/data/1828250/0000950142-23-002808.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1828250/0000950142-23-002808.txt,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2023-10-31,edgar/data/1911066/0001628280-23-035643.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1911066/0001628280-23-035643.txt,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2023-11-29,edgar/data/1911066/0001628280-23-040204.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1911066/0001628280-23-040204.txt,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2023-12-29,edgar/data/1911066/0001628280-23-042877.txt,2023,4,https://www.sec.gov/Archives/edgar/data/1911066/0001628280-23-042877.txt,CHD
+200406,JOHNSON & JOHNSON,8-K,2023-10-17,edgar/data/200406/0000200406-23-000094.txt,2023,4,https://www.sec.gov/Archives/edgar/data/200406/0000200406-23-000094.txt,JNJ
+200406,JOHNSON & JOHNSON,8-K,2023-10-23,edgar/data/200406/0000200406-23-000096.txt,2023,4,https://www.sec.gov/Archives/edgar/data/200406/0000200406-23-000096.txt,JNJ
+200406,JOHNSON & JOHNSON,8-K,2023-11-27,edgar/data/200406/0000200406-23-000105.txt,2023,4,https://www.sec.gov/Archives/edgar/data/200406/0000200406-23-000105.txt,JNJ
+200406,JOHNSON & JOHNSON,8-K,2023-11-30,edgar/data/200406/0000200406-23-000109.txt,2023,4,https://www.sec.gov/Archives/edgar/data/200406/0000200406-23-000109.txt,JNJ
+200406,JOHNSON & JOHNSON,8-K,2023-12-05,edgar/data/200406/0000200406-23-000112.txt,2023,4,https://www.sec.gov/Archives/edgar/data/200406/0000200406-23-000112.txt,JNJ
+200406,JOHNSON & JOHNSON,8-K,2023-12-05,edgar/data/200406/0000200406-23-000115.txt,2023,4,https://www.sec.gov/Archives/edgar/data/200406/0000200406-23-000115.txt,JNJ
+20212,Churchill Downs Inc,8-K,2023-10-25,edgar/data/20212/0000020212-23-000130.txt,2023,4,https://www.sec.gov/Archives/edgar/data/20212/0000020212-23-000130.txt,CHD
+20212,Churchill Downs Inc,8-K,2023-12-18,edgar/data/20212/0000020212-23-000139.txt,2023,4,https://www.sec.gov/Archives/edgar/data/20212/0000020212-23-000139.txt,CHD
+21076,CLOROX CO /DE/,8-K,2023-10-04,edgar/data/21076/0001206774-23-001174.txt,2023,4,https://www.sec.gov/Archives/edgar/data/21076/0001206774-23-001174.txt,CLX
+21076,CLOROX CO /DE/,8-K,2023-11-01,edgar/data/21076/0000021076-23-000046.txt,2023,4,https://www.sec.gov/Archives/edgar/data/21076/0000021076-23-000046.txt,CLX
+21076,CLOROX CO /DE/,8-K,2023-11-16,edgar/data/21076/0001206774-23-001250.txt,2023,4,https://www.sec.gov/Archives/edgar/data/21076/0001206774-23-001250.txt,CLX
+21344,COCA COLA CO,8-K,2023-10-20,edgar/data/21344/0000021344-23-000051.txt,2023,4,https://www.sec.gov/Archives/edgar/data/21344/0000021344-23-000051.txt,KO
+21344,COCA COLA CO,8-K,2023-10-24,edgar/data/21344/0000021344-23-000057.txt,2023,4,https://www.sec.gov/Archives/edgar/data/21344/0000021344-23-000057.txt,KO
+21665,COLGATE PALMOLIVE CO,8-K,2023-10-27,edgar/data/21665/0001157523-23-001562.txt,2023,4,https://www.sec.gov/Archives/edgar/data/21665/0001157523-23-001562.txt,CL
+23217,CONAGRA BRANDS INC.,8-K,2023-10-05,edgar/data/23217/0001437749-23-027741.txt,2023,4,https://www.sec.gov/Archives/edgar/data/23217/0001437749-23-027741.txt,CAG
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2023-11-03,edgar/data/313927/0000950170-23-058507.txt,2023,4,https://www.sec.gov/Archives/edgar/data/313927/0000950170-23-058507.txt,CHD
+40704,GENERAL MILLS INC,8-K,2023-10-17,edgar/data/40704/0001193125-23-257325.txt,2023,4,https://www.sec.gov/Archives/edgar/data/40704/0001193125-23-257325.txt,GIS
+40704,GENERAL MILLS INC,8-K,2023-12-06,edgar/data/40704/0001193125-23-289613.txt,2023,4,https://www.sec.gov/Archives/edgar/data/40704/0001193125-23-289613.txt,GIS
+40704,GENERAL MILLS INC,8-K,2023-12-20,edgar/data/40704/0001193125-23-299294.txt,2023,4,https://www.sec.gov/Archives/edgar/data/40704/0001193125-23-299294.txt,GIS
+47111,HERSHEY CO,8-K,2023-10-26,edgar/data/47111/0000047111-23-000063.txt,2023,4,https://www.sec.gov/Archives/edgar/data/47111/0000047111-23-000063.txt,HSY
+55067,KELLANOVA,8-K,2023-10-02,edgar/data/55067/0001193125-23-249062.txt,2023,4,https://www.sec.gov/Archives/edgar/data/55067/0001193125-23-249062.txt,K
+55067,KELLANOVA,8-K,2023-11-08,edgar/data/55067/0001628280-23-037564.txt,2023,4,https://www.sec.gov/Archives/edgar/data/55067/0001628280-23-037564.txt,K
+55067,KELLANOVA,8-K,2023-12-20,edgar/data/55067/0001193125-23-299955.txt,2023,4,https://www.sec.gov/Archives/edgar/data/55067/0001193125-23-299955.txt,K
+55785,KIMBERLY CLARK CORP,8-K,2023-10-24,edgar/data/55785/0000055785-23-000061.txt,2023,4,https://www.sec.gov/Archives/edgar/data/55785/0000055785-23-000061.txt,KMB
+63276,MATTEL INC /DE/,8-K,2023-10-25,edgar/data/63276/0001628280-23-035111.txt,2023,4,https://www.sec.gov/Archives/edgar/data/63276/0001628280-23-035111.txt,MAT
+66740,3M CO,8-K/A,2023-11-21,edgar/data/66740/0000066740-23-000105.txt,2023,4,https://www.sec.gov/Archives/edgar/data/66740/0000066740-23-000105.txt,MMM
+66740,3M CO,8-K,2023-10-24,edgar/data/66740/0000066740-23-000088.txt,2023,4,https://www.sec.gov/Archives/edgar/data/66740/0000066740-23-000088.txt,MMM
+66740,3M CO,8-K,2023-11-07,edgar/data/66740/0000066740-23-000098.txt,2023,4,https://www.sec.gov/Archives/edgar/data/66740/0000066740-23-000098.txt,MMM
+66740,3M CO,8-K,2023-11-09,edgar/data/66740/0000066740-23-000101.txt,2023,4,https://www.sec.gov/Archives/edgar/data/66740/0000066740-23-000101.txt,MMM
+719955,WILLIAMS SONOMA INC,8-K,2023-11-16,edgar/data/719955/0001628280-23-039239.txt,2023,4,https://www.sec.gov/Archives/edgar/data/719955/0001628280-23-039239.txt,WSM
+746598,BRADY CORP,8-K,2023-11-16,edgar/data/746598/0000746598-23-000133.txt,2023,4,https://www.sec.gov/Archives/edgar/data/746598/0000746598-23-000133.txt,BRC
+77476,PEPSICO INC,8-K/A,2023-11-17,edgar/data/77476/0000077476-23-000069.txt,2023,4,https://www.sec.gov/Archives/edgar/data/77476/0000077476-23-000069.txt,PEP
+77476,PEPSICO INC,8-K,2023-10-10,edgar/data/77476/0000077476-23-000060.txt,2023,4,https://www.sec.gov/Archives/edgar/data/77476/0000077476-23-000060.txt,PEP
+77476,PEPSICO INC,8-K,2023-11-06,edgar/data/77476/0000077476-23-000064.txt,2023,4,https://www.sec.gov/Archives/edgar/data/77476/0000077476-23-000064.txt,PEP
+77476,PEPSICO INC,8-K,2023-11-13,edgar/data/77476/0001104659-23-117278.txt,2023,4,https://www.sec.gov/Archives/edgar/data/77476/0001104659-23-117278.txt,PEP
+788329,JOHNSON OUTDOORS INC,8-K,2023-10-19,edgar/data/788329/0001140361-23-048818.txt,2023,4,https://www.sec.gov/Archives/edgar/data/788329/0001140361-23-048818.txt,JNJ
+788329,JOHNSON OUTDOORS INC,8-K,2023-12-08,edgar/data/788329/0001171843-23-007503.txt,2023,4,https://www.sec.gov/Archives/edgar/data/788329/0001171843-23-007503.txt,JNJ
+788329,JOHNSON OUTDOORS INC,8-K,2023-12-08,edgar/data/788329/0001171843-23-007504.txt,2023,4,https://www.sec.gov/Archives/edgar/data/788329/0001171843-23-007504.txt,JNJ
+80424,PROCTER & GAMBLE Co,8-K,2023-10-10,edgar/data/80424/0000080424-23-000088.txt,2023,4,https://www.sec.gov/Archives/edgar/data/80424/0000080424-23-000088.txt,PG
+80424,PROCTER & GAMBLE Co,8-K,2023-10-13,edgar/data/80424/0000080424-23-000090.txt,2023,4,https://www.sec.gov/Archives/edgar/data/80424/0000080424-23-000090.txt,PG
+80424,PROCTER & GAMBLE Co,8-K,2023-10-18,edgar/data/80424/0000080424-23-000094.txt,2023,4,https://www.sec.gov/Archives/edgar/data/80424/0000080424-23-000094.txt,PG
+80424,PROCTER & GAMBLE Co,8-K,2023-10-18,edgar/data/80424/0000080424-23-000096.txt,2023,4,https://www.sec.gov/Archives/edgar/data/80424/0000080424-23-000096.txt,PG
+80424,PROCTER & GAMBLE Co,8-K,2023-11-01,edgar/data/80424/0001193125-23-268205.txt,2023,4,https://www.sec.gov/Archives/edgar/data/80424/0001193125-23-268205.txt,PG
+80424,PROCTER & GAMBLE Co,8-K,2023-12-05,edgar/data/80424/0000080424-23-000107.txt,2023,4,https://www.sec.gov/Archives/edgar/data/80424/0000080424-23-000107.txt,PG
+80424,PROCTER & GAMBLE Co,8-K,2023-12-13,edgar/data/80424/0000080424-23-000114.txt,2023,4,https://www.sec.gov/Archives/edgar/data/80424/0000080424-23-000114.txt,PG
+814453,NEWELL BRANDS INC.,8-K,2023-10-05,edgar/data/814453/0001193125-23-251560.txt,2023,4,https://www.sec.gov/Archives/edgar/data/814453/0001193125-23-251560.txt,NWL
+814453,NEWELL BRANDS INC.,8-K,2023-10-27,edgar/data/814453/0000814453-23-000143.txt,2023,4,https://www.sec.gov/Archives/edgar/data/814453/0000814453-23-000143.txt,NWL
+814453,NEWELL BRANDS INC.,8-K,2023-12-01,edgar/data/814453/0001193125-23-286805.txt,2023,4,https://www.sec.gov/Archives/edgar/data/814453/0001193125-23-286805.txt,NWL
+833444,Johnson Controls International plc,8-K,2023-11-13,edgar/data/833444/0000833444-23-000038.txt,2023,4,https://www.sec.gov/Archives/edgar/data/833444/0000833444-23-000038.txt,JNJ
+833444,Johnson Controls International plc,8-K,2023-12-08,edgar/data/833444/0000833444-23-000042.txt,2023,4,https://www.sec.gov/Archives/edgar/data/833444/0000833444-23-000042.txt,JNJ
+833444,Johnson Controls International plc,8-K,2023-12-12,edgar/data/833444/0000833444-23-000044.txt,2023,4,https://www.sec.gov/Archives/edgar/data/833444/0000833444-23-000044.txt,JNJ
+916789,HELEN OF TROY LTD,8-K/A,2023-10-04,edgar/data/916789/0000916789-23-000046.txt,2023,4,https://www.sec.gov/Archives/edgar/data/916789/0000916789-23-000046.txt,HELE
+916789,HELEN OF TROY LTD,8-K,2023-10-04,edgar/data/916789/0000916789-23-000044.txt,2023,4,https://www.sec.gov/Archives/edgar/data/916789/0000916789-23-000044.txt,HELE
+1043951,CAMPBELL FUND TRUST,8-K,2024-01-05,edgar/data/1043951/0001140361-24-000994.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1043951/0001140361-24-000994.txt,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2024-02-07,edgar/data/1043951/0001140361-24-006102.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1043951/0001140361-24-006102.txt,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2024-03-06,edgar/data/1043951/0001140361-24-011681.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1043951/0001140361-24-011681.txt,CPB
+106640,WHIRLPOOL CORP /DE/,8-K,2024-01-29,edgar/data/106640/0000106640-24-000011.txt,2024,1,https://www.sec.gov/Archives/edgar/data/106640/0000106640-24-000011.txt,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2024-02-08,edgar/data/106640/0001193125-24-027496.txt,2024,1,https://www.sec.gov/Archives/edgar/data/106640/0001193125-24-027496.txt,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2024-02-20,edgar/data/106640/0001193125-24-039281.txt,2024,1,https://www.sec.gov/Archives/edgar/data/106640/0001193125-24-039281.txt,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2024-02-20,edgar/data/106640/0001193125-24-039380.txt,2024,1,https://www.sec.gov/Archives/edgar/data/106640/0001193125-24-039380.txt,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2024-02-27,edgar/data/106640/0001193125-24-046963.txt,2024,1,https://www.sec.gov/Archives/edgar/data/106640/0001193125-24-046963.txt,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2024-02-27,edgar/data/106640/0001193125-24-047939.txt,2024,1,https://www.sec.gov/Archives/edgar/data/106640/0001193125-24-047939.txt,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2024-03-08,edgar/data/106640/0001193125-24-063754.txt,2024,1,https://www.sec.gov/Archives/edgar/data/106640/0001193125-24-063754.txt,WHR
+1103982,"Mondelez International, Inc.",8-K,2024-01-30,edgar/data/1103982/0001103982-24-000010.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1103982/0001103982-24-000010.txt,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2024-01-30,edgar/data/1103982/0001103982-24-000011.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1103982/0001103982-24-000011.txt,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2024-02-02,edgar/data/1103982/0001103982-24-000016.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1103982/0001103982-24-000016.txt,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2024-02-20,edgar/data/1103982/0001103982-24-000022.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1103982/0001103982-24-000022.txt,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2024-02-20,edgar/data/1103982/0001628280-24-005656.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1103982/0001628280-24-005656.txt,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2024-02-21,edgar/data/1103982/0001103982-24-000027.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1103982/0001103982-24-000027.txt,MDLZ
+1528849,RH,8-K,2024-03-18,edgar/data/1528849/0001558370-24-003511.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1528849/0001558370-24-003511.txt,RH
+1528849,RH,8-K,2024-03-27,edgar/data/1528849/0001558370-24-004085.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1528849/0001558370-24-004085.txt,RH
+1616707,Wayfair Inc.,8-K,2024-01-19,edgar/data/1616707/0001616707-24-000007.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1616707/0001616707-24-000007.txt,W
+1616707,Wayfair Inc.,8-K,2024-02-22,edgar/data/1616707/0001616707-24-000012.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1616707/0001616707-24-000012.txt,W
+1637459,Kraft Heinz Co,8-K,2024-02-14,edgar/data/1637459/0001637459-24-000013.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1637459/0001637459-24-000013.txt,KHC
+1637459,Kraft Heinz Co,8-K,2024-02-21,edgar/data/1637459/0001637459-24-000021.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1637459/0001637459-24-000021.txt,KHC
+1637459,Kraft Heinz Co,8-K,2024-02-22,edgar/data/1637459/0001637459-24-000024.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1637459/0001637459-24-000024.txt,KHC
+1637459,Kraft Heinz Co,8-K,2024-02-28,edgar/data/1637459/0001637459-24-000029.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1637459/0001637459-24-000029.txt,KHC
+1637459,Kraft Heinz Co,8-K,2024-03-01,edgar/data/1637459/0001193125-24-055957.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1637459/0001193125-24-055957.txt,KHC
+16732,CAMPBELL SOUP CO,8-K,2024-02-13,edgar/data/16732/0000950103-24-002129.txt,2024,1,https://www.sec.gov/Archives/edgar/data/16732/0000950103-24-002129.txt,CPB
+16732,CAMPBELL SOUP CO,8-K,2024-03-06,edgar/data/16732/0000016732-24-000038.txt,2024,1,https://www.sec.gov/Archives/edgar/data/16732/0000016732-24-000038.txt,CPB
+16732,CAMPBELL SOUP CO,8-K,2024-03-12,edgar/data/16732/0000950103-24-003686.txt,2024,1,https://www.sec.gov/Archives/edgar/data/16732/0000950103-24-003686.txt,CPB
+16732,CAMPBELL SOUP CO,8-K,2024-03-21,edgar/data/16732/0001193125-24-073519.txt,2024,1,https://www.sec.gov/Archives/edgar/data/16732/0001193125-24-073519.txt,CPB
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-01-11,edgar/data/1737924/0001628280-24-001187.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-24-001187.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-01-30,edgar/data/1737924/0001628280-24-002584.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-24-002584.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-02-15,edgar/data/1737924/0001628280-24-005053.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-24-005053.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-02-23,edgar/data/1737924/0001628280-24-006685.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-24-006685.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-02-27,edgar/data/1737924/0001628280-24-007040.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-24-007040.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-02-27,edgar/data/1737924/0001628280-24-007043.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-24-007043.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-03-11,edgar/data/1737924/0001628280-24-010264.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-24-010264.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-03-20,edgar/data/1737924/0001628280-24-012245.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-24-012245.txt,CHD
+1786431,Reynolds Consumer Products Inc.,8-K,2024-02-07,edgar/data/1786431/0001628280-24-003607.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1786431/0001628280-24-003607.txt,REYN
+1828248,Churchill Capital Corp VII,8-K,2024-01-24,edgar/data/1828248/0001104659-24-005969.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1828248/0001104659-24-005969.txt,CHD
+1828248,Churchill Capital Corp VII,8-K,2024-01-31,edgar/data/1828248/0001104659-24-008375.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1828248/0001104659-24-008375.txt,CHD
+1828248,Churchill Capital Corp VII,8-K,2024-02-12,edgar/data/1828248/0001104659-24-013841.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1828248/0001104659-24-013841.txt,CHD
+1828248,Churchill Capital Corp VII,8-K,2024-02-12,edgar/data/1828248/0001104659-24-014598.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1828248/0001104659-24-014598.txt,CHD
+1828248,Churchill Capital Corp VII,8-K,2024-03-04,edgar/data/1828248/0001104659-24-030263.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1828248/0001104659-24-030263.txt,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-01-29,edgar/data/1911066/0001628280-24-002463.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1911066/0001628280-24-002463.txt,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-02-23,edgar/data/1911066/0001628280-24-006657.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1911066/0001628280-24-006657.txt,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-03-04,edgar/data/1911066/0001628280-24-008582.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1911066/0001628280-24-008582.txt,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-03-28,edgar/data/1911066/0001628280-24-013665.txt,2024,1,https://www.sec.gov/Archives/edgar/data/1911066/0001628280-24-013665.txt,CHD
+200406,JOHNSON & JOHNSON,8-K,2024-01-23,edgar/data/200406/0000200406-24-000004.txt,2024,1,https://www.sec.gov/Archives/edgar/data/200406/0000200406-24-000004.txt,JNJ
+20212,Churchill Downs Inc,8-K,2024-02-21,edgar/data/20212/0000020212-24-000053.txt,2024,1,https://www.sec.gov/Archives/edgar/data/20212/0000020212-24-000053.txt,CHD
+21076,CLOROX CO /DE/,8-K,2024-02-01,edgar/data/21076/0000021076-24-000008.txt,2024,1,https://www.sec.gov/Archives/edgar/data/21076/0000021076-24-000008.txt,CLX
+21076,CLOROX CO /DE/,8-K,2024-03-21,edgar/data/21076/0001206774-24-000281.txt,2024,1,https://www.sec.gov/Archives/edgar/data/21076/0001206774-24-000281.txt,CLX
+21344,COCA COLA CO,8-K,2024-02-13,edgar/data/21344/0000021344-24-000004.txt,2024,1,https://www.sec.gov/Archives/edgar/data/21344/0000021344-24-000004.txt,KO
+21665,COLGATE PALMOLIVE CO,8-K,2024-01-26,edgar/data/21665/0001157523-24-000119.txt,2024,1,https://www.sec.gov/Archives/edgar/data/21665/0001157523-24-000119.txt,CL
+21665,COLGATE PALMOLIVE CO,8-K,2024-02-15,edgar/data/21665/0001157523-24-000262.txt,2024,1,https://www.sec.gov/Archives/edgar/data/21665/0001157523-24-000262.txt,CL
+23217,CONAGRA BRANDS INC.,8-K,2024-01-04,edgar/data/23217/0001437749-24-000509.txt,2024,1,https://www.sec.gov/Archives/edgar/data/23217/0001437749-24-000509.txt,CAG
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2024-02-02,edgar/data/313927/0000950170-24-010091.txt,2024,1,https://www.sec.gov/Archives/edgar/data/313927/0000950170-24-010091.txt,CHD
+40704,GENERAL MILLS INC,8-K/A,2024-02-23,edgar/data/40704/0001193125-24-044433.txt,2024,1,https://www.sec.gov/Archives/edgar/data/40704/0001193125-24-044433.txt,GIS
+40704,GENERAL MILLS INC,8-K,2024-01-30,edgar/data/40704/0001193125-24-018891.txt,2024,1,https://www.sec.gov/Archives/edgar/data/40704/0001193125-24-018891.txt,GIS
+40704,GENERAL MILLS INC,8-K,2024-02-07,edgar/data/40704/0001193125-24-025992.txt,2024,1,https://www.sec.gov/Archives/edgar/data/40704/0001193125-24-025992.txt,GIS
+40704,GENERAL MILLS INC,8-K,2024-03-20,edgar/data/40704/0001193125-24-072050.txt,2024,1,https://www.sec.gov/Archives/edgar/data/40704/0001193125-24-072050.txt,GIS
+46640,Kraft Heinz Foods Co,8-K,2024-03-01,edgar/data/46640/0001193125-24-055957.txt,2024,1,https://www.sec.gov/Archives/edgar/data/46640/0001193125-24-055957.txt,KHC
+47111,HERSHEY CO,8-K,2024-02-08,edgar/data/47111/0000047111-24-000004.txt,2024,1,https://www.sec.gov/Archives/edgar/data/47111/0000047111-24-000004.txt,HSY
+55067,KELLANOVA,8-K,2024-01-12,edgar/data/55067/0000055067-24-000002.txt,2024,1,https://www.sec.gov/Archives/edgar/data/55067/0000055067-24-000002.txt,K
+55067,KELLANOVA,8-K,2024-02-08,edgar/data/55067/0001628280-24-003791.txt,2024,1,https://www.sec.gov/Archives/edgar/data/55067/0001628280-24-003791.txt,K
+55067,KELLANOVA,8-K,2024-02-22,edgar/data/55067/0000055067-24-000005.txt,2024,1,https://www.sec.gov/Archives/edgar/data/55067/0000055067-24-000005.txt,K
+55785,KIMBERLY CLARK CORP,8-K,2024-01-24,edgar/data/55785/0000055785-24-000006.txt,2024,1,https://www.sec.gov/Archives/edgar/data/55785/0000055785-24-000006.txt,KMB
+55785,KIMBERLY CLARK CORP,8-K,2024-01-30,edgar/data/55785/0000055785-24-000011.txt,2024,1,https://www.sec.gov/Archives/edgar/data/55785/0000055785-24-000011.txt,KMB
+55785,KIMBERLY CLARK CORP,8-K,2024-03-27,edgar/data/55785/0000055785-24-000045.txt,2024,1,https://www.sec.gov/Archives/edgar/data/55785/0000055785-24-000045.txt,KMB
+63276,MATTEL INC /DE/,8-K,2024-02-07,edgar/data/63276/0001628280-24-003691.txt,2024,1,https://www.sec.gov/Archives/edgar/data/63276/0001628280-24-003691.txt,MAT
+63276,MATTEL INC /DE/,8-K,2024-03-22,edgar/data/63276/0001193125-24-075420.txt,2024,1,https://www.sec.gov/Archives/edgar/data/63276/0001193125-24-075420.txt,MAT
+66740,3M CO,8-K,2024-01-16,edgar/data/66740/0000066740-24-000002.txt,2024,1,https://www.sec.gov/Archives/edgar/data/66740/0000066740-24-000002.txt,MMM
+66740,3M CO,8-K,2024-01-23,edgar/data/66740/0000066740-24-000005.txt,2024,1,https://www.sec.gov/Archives/edgar/data/66740/0000066740-24-000005.txt,MMM
+66740,3M CO,8-K,2024-01-29,edgar/data/66740/0000066740-24-000007.txt,2024,1,https://www.sec.gov/Archives/edgar/data/66740/0000066740-24-000007.txt,MMM
+66740,3M CO,8-K,2024-02-27,edgar/data/66740/0001140361-24-009810.txt,2024,1,https://www.sec.gov/Archives/edgar/data/66740/0001140361-24-009810.txt,MMM
+66740,3M CO,8-K,2024-03-08,edgar/data/66740/0000066740-24-000023.txt,2024,1,https://www.sec.gov/Archives/edgar/data/66740/0000066740-24-000023.txt,MMM
+66740,3M CO,8-K,2024-03-12,edgar/data/66740/0000066740-24-000029.txt,2024,1,https://www.sec.gov/Archives/edgar/data/66740/0000066740-24-000029.txt,MMM
+719955,WILLIAMS SONOMA INC,8-K,2024-01-12,edgar/data/719955/0001628280-24-001269.txt,2024,1,https://www.sec.gov/Archives/edgar/data/719955/0001628280-24-001269.txt,WSM
+719955,WILLIAMS SONOMA INC,8-K,2024-03-13,edgar/data/719955/0001628280-24-010801.txt,2024,1,https://www.sec.gov/Archives/edgar/data/719955/0001628280-24-010801.txt,WSM
+746598,BRADY CORP,8-K,2024-02-22,edgar/data/746598/0000746598-24-000008.txt,2024,1,https://www.sec.gov/Archives/edgar/data/746598/0000746598-24-000008.txt,BRC
+746598,BRADY CORP,8-K,2024-03-15,edgar/data/746598/0000746598-24-000012.txt,2024,1,https://www.sec.gov/Archives/edgar/data/746598/0000746598-24-000012.txt,BRC
+77476,PEPSICO INC,8-K,2024-01-18,edgar/data/77476/0000077476-24-000003.txt,2024,1,https://www.sec.gov/Archives/edgar/data/77476/0000077476-24-000003.txt,PEP
+77476,PEPSICO INC,8-K,2024-02-09,edgar/data/77476/0000077476-24-000010.txt,2024,1,https://www.sec.gov/Archives/edgar/data/77476/0000077476-24-000010.txt,PEP
+77476,PEPSICO INC,8-K,2024-02-16,edgar/data/77476/0001104659-24-024927.txt,2024,1,https://www.sec.gov/Archives/edgar/data/77476/0001104659-24-024927.txt,PEP
+788329,JOHNSON OUTDOORS INC,8-K,2024-02-02,edgar/data/788329/0001171843-24-000536.txt,2024,1,https://www.sec.gov/Archives/edgar/data/788329/0001171843-24-000536.txt,JNJ
+788329,JOHNSON OUTDOORS INC,8-K,2024-02-29,edgar/data/788329/0001140361-24-010284.txt,2024,1,https://www.sec.gov/Archives/edgar/data/788329/0001140361-24-010284.txt,JNJ
+788329,JOHNSON OUTDOORS INC,8-K,2024-03-01,edgar/data/788329/0001171843-24-001115.txt,2024,1,https://www.sec.gov/Archives/edgar/data/788329/0001171843-24-001115.txt,JNJ
+80424,PROCTER & GAMBLE Co,8-K,2024-01-09,edgar/data/80424/0000080424-24-000004.txt,2024,1,https://www.sec.gov/Archives/edgar/data/80424/0000080424-24-000004.txt,PG
+80424,PROCTER & GAMBLE Co,8-K,2024-01-23,edgar/data/80424/0000080424-24-000013.txt,2024,1,https://www.sec.gov/Archives/edgar/data/80424/0000080424-24-000013.txt,PG
+80424,PROCTER & GAMBLE Co,8-K,2024-01-23,edgar/data/80424/0000080424-24-000015.txt,2024,1,https://www.sec.gov/Archives/edgar/data/80424/0000080424-24-000015.txt,PG
+80424,PROCTER & GAMBLE Co,8-K,2024-01-29,edgar/data/80424/0001193125-24-018146.txt,2024,1,https://www.sec.gov/Archives/edgar/data/80424/0001193125-24-018146.txt,PG
+814453,NEWELL BRANDS INC.,8-K/A,2024-02-12,edgar/data/814453/0001193125-24-032079.txt,2024,1,https://www.sec.gov/Archives/edgar/data/814453/0001193125-24-032079.txt,NWL
+814453,NEWELL BRANDS INC.,8-K,2024-01-08,edgar/data/814453/0001193125-24-003974.txt,2024,1,https://www.sec.gov/Archives/edgar/data/814453/0001193125-24-003974.txt,NWL
+814453,NEWELL BRANDS INC.,8-K,2024-02-09,edgar/data/814453/0000814453-24-000013.txt,2024,1,https://www.sec.gov/Archives/edgar/data/814453/0000814453-24-000013.txt,NWL
+814453,NEWELL BRANDS INC.,8-K,2024-02-09,edgar/data/814453/0001193125-24-029292.txt,2024,1,https://www.sec.gov/Archives/edgar/data/814453/0001193125-24-029292.txt,NWL
+814453,NEWELL BRANDS INC.,8-K,2024-02-22,edgar/data/814453/0001193125-24-042840.txt,2024,1,https://www.sec.gov/Archives/edgar/data/814453/0001193125-24-042840.txt,NWL
+814453,NEWELL BRANDS INC.,8-K,2024-02-22,edgar/data/814453/0001193125-24-042851.txt,2024,1,https://www.sec.gov/Archives/edgar/data/814453/0001193125-24-042851.txt,NWL
+814453,NEWELL BRANDS INC.,8-K,2024-03-21,edgar/data/814453/0001193125-24-073838.txt,2024,1,https://www.sec.gov/Archives/edgar/data/814453/0001193125-24-073838.txt,NWL
+833444,Johnson Controls International plc,8-K,2024-01-16,edgar/data/833444/0000833444-24-000004.txt,2024,1,https://www.sec.gov/Archives/edgar/data/833444/0000833444-24-000004.txt,JNJ
+833444,Johnson Controls International plc,8-K,2024-01-30,edgar/data/833444/0000833444-24-000007.txt,2024,1,https://www.sec.gov/Archives/edgar/data/833444/0000833444-24-000007.txt,JNJ
+833444,Johnson Controls International plc,8-K,2024-03-18,edgar/data/833444/0000833444-24-000020.txt,2024,1,https://www.sec.gov/Archives/edgar/data/833444/0000833444-24-000020.txt,JNJ
+916789,HELEN OF TROY LTD,8-K,2024-01-08,edgar/data/916789/0000916789-24-000003.txt,2024,1,https://www.sec.gov/Archives/edgar/data/916789/0000916789-24-000003.txt,HELE
+916789,HELEN OF TROY LTD,8-K,2024-02-20,edgar/data/916789/0000916789-24-000007.txt,2024,1,https://www.sec.gov/Archives/edgar/data/916789/0000916789-24-000007.txt,HELE
+916789,HELEN OF TROY LTD,8-K,2024-03-05,edgar/data/916789/0000916789-24-000010.txt,2024,1,https://www.sec.gov/Archives/edgar/data/916789/0000916789-24-000010.txt,HELE
+1043951,CAMPBELL FUND TRUST,8-K,2024-04-03,edgar/data/1043951/0001140361-24-017614.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1043951/0001140361-24-017614.txt,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2024-05-06,edgar/data/1043951/0001140361-24-024506.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1043951/0001140361-24-024506.txt,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2024-06-05,edgar/data/1043951/0001140361-24-028963.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1043951/0001140361-24-028963.txt,CPB
+106640,WHIRLPOOL CORP /DE/,8-K,2024-04-01,edgar/data/106640/0001193125-24-082967.txt,2024,2,https://www.sec.gov/Archives/edgar/data/106640/0001193125-24-082967.txt,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2024-04-18,edgar/data/106640/0000106640-24-000088.txt,2024,2,https://www.sec.gov/Archives/edgar/data/106640/0000106640-24-000088.txt,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2024-04-23,edgar/data/106640/0000106640-24-000091.txt,2024,2,https://www.sec.gov/Archives/edgar/data/106640/0000106640-24-000091.txt,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2024-04-24,edgar/data/106640/0000106640-24-000095.txt,2024,2,https://www.sec.gov/Archives/edgar/data/106640/0000106640-24-000095.txt,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2024-05-03,edgar/data/106640/0000106640-24-000105.txt,2024,2,https://www.sec.gov/Archives/edgar/data/106640/0000106640-24-000105.txt,WHR
+1103982,"Mondelez International, Inc.",8-K/A,2024-05-23,edgar/data/1103982/0001103982-24-000078.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1103982/0001103982-24-000078.txt,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2024-04-30,edgar/data/1103982/0001103982-24-000052.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1103982/0001103982-24-000052.txt,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2024-05-22,edgar/data/1103982/0001103982-24-000073.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1103982/0001103982-24-000073.txt,MDLZ
+1528849,RH,8-K,2024-06-13,edgar/data/1528849/0001558370-24-009144.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1528849/0001558370-24-009144.txt,RH
+1528849,RH,8-K,2024-06-28,edgar/data/1528849/0001558370-24-009627.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1528849/0001558370-24-009627.txt,RH
+1616707,Wayfair Inc.,8-K,2024-05-02,edgar/data/1616707/0001616707-24-000032.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1616707/0001616707-24-000032.txt,W
+1616707,Wayfair Inc.,8-K,2024-05-15,edgar/data/1616707/0001616707-24-000039.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1616707/0001616707-24-000039.txt,W
+1637459,Kraft Heinz Co,8-K,2024-04-18,edgar/data/1637459/0001637459-24-000061.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1637459/0001637459-24-000061.txt,KHC
+1637459,Kraft Heinz Co,8-K,2024-05-01,edgar/data/1637459/0001637459-24-000066.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1637459/0001637459-24-000066.txt,KHC
+1637459,Kraft Heinz Co,8-K,2024-05-08,edgar/data/1637459/0001637459-24-000096.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1637459/0001637459-24-000096.txt,KHC
+16732,CAMPBELL SOUP CO,8-K/A,2024-05-21,edgar/data/16732/0000016732-24-000076.txt,2024,2,https://www.sec.gov/Archives/edgar/data/16732/0000016732-24-000076.txt,CPB
+16732,CAMPBELL SOUP CO,8-K,2024-04-16,edgar/data/16732/0001193125-24-097732.txt,2024,2,https://www.sec.gov/Archives/edgar/data/16732/0001193125-24-097732.txt,CPB
+16732,CAMPBELL SOUP CO,8-K,2024-06-05,edgar/data/16732/0000016732-24-000081.txt,2024,2,https://www.sec.gov/Archives/edgar/data/16732/0000016732-24-000081.txt,CPB
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-04-15,edgar/data/1737924/0001628280-24-016233.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-24-016233.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-05-09,edgar/data/1737924/0001628280-24-021957.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-24-021957.txt,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-06-03,edgar/data/1737924/0001628280-24-026347.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1737924/0001628280-24-026347.txt,CHD
+1786431,Reynolds Consumer Products Inc.,8-K,2024-04-25,edgar/data/1786431/0001628280-24-018207.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1786431/0001628280-24-018207.txt,REYN
+1786431,Reynolds Consumer Products Inc.,8-K,2024-05-08,edgar/data/1786431/0001628280-24-021358.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1786431/0001628280-24-021358.txt,REYN
+1828248,Churchill Capital Corp VII,8-K,2024-05-14,edgar/data/1828248/0001104659-24-061137.txt,2024,2,https://www.sec.gov/Archives/edgar/data/1828248/0001104659-24-061137.txt,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-04-29,edgar/data/1911066/0001628280-24-018752.txt,2024,2,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-04-29,edgar/data/1911066/0001628280-24-019093.txt,2024,2,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-05-29,edgar/data/1911066/0001628280-24-025621.txt,2024,2,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-06-03,edgar/data/1911066/0001628280-24-026428.txt,2024,2,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-06-05,edgar/data/1911066/0001628280-24-026848.txt,2024,2,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-06-28,edgar/data/1911066/0001628280-24-030502.txt,2024,2,,CHD
+200406,JOHNSON & JOHNSON,8-K/A,2024-04-16,edgar/data/200406/0000200406-24-000036.txt,2024,2,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2024-04-16,edgar/data/200406/0000200406-24-000031.txt,2024,2,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2024-04-29,edgar/data/200406/0000200406-24-000043.txt,2024,2,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2024-05-01,edgar/data/200406/0000200406-24-000048.txt,2024,2,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2024-05-17,edgar/data/200406/0000200406-24-000053.txt,2024,2,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2024-05-20,edgar/data/200406/0001193125-24-142828.txt,2024,2,,JNJ
+2006291,Churchill Capital Corp IX/Cayman,8-K,2024-05-07,edgar/data/2006291/0001193125-24-133147.txt,2024,2,,CHD
+2006291,Churchill Capital Corp IX/Cayman,8-K,2024-05-10,edgar/data/2006291/0001193125-24-136150.txt,2024,2,,CHD
+2006291,Churchill Capital Corp IX/Cayman,8-K,2024-06-20,edgar/data/2006291/0001193125-24-164549.txt,2024,2,,CHD
+20212,Churchill Downs Inc,8-K,2024-04-23,edgar/data/20212/0000020212-24-000063.txt,2024,2,,CHD
+20212,Churchill Downs Inc,8-K,2024-04-24,edgar/data/20212/0000020212-24-000069.txt,2024,2,,CHD
+21076,CLOROX CO /DE/,8-K,2024-04-30,edgar/data/21076/0000021076-24-000014.txt,2024,2,,CLX
+21344,COCA COLA CO,8-K,2024-04-30,edgar/data/21344/0000021344-24-000013.txt,2024,2,,KO
+21344,COCA COLA CO,8-K,2024-05-02,edgar/data/21344/0001552781-24-000261.txt,2024,2,,KO
+21344,COCA COLA CO,8-K,2024-05-08,edgar/data/21344/0001552781-24-000299.txt,2024,2,,KO
+21344,COCA COLA CO,8-K,2024-05-13,edgar/data/21344/0001552781-24-000313.txt,2024,2,,KO
+21344,COCA COLA CO,8-K,2024-05-14,edgar/data/21344/0001552781-24-000325.txt,2024,2,,KO
+21665,COLGATE PALMOLIVE CO,8-K,2024-04-26,edgar/data/21665/0000021665-24-000014.txt,2024,2,,CL
+21665,COLGATE PALMOLIVE CO,8-K,2024-05-15,edgar/data/21665/0000021665-24-000017.txt,2024,2,,CL
+23217,CONAGRA BRANDS INC.,8-K/A,2024-04-04,edgar/data/23217/0001437749-24-011036.txt,2024,2,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2024-04-04,edgar/data/23217/0001437749-24-011000.txt,2024,2,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2024-04-30,edgar/data/23217/0001558370-24-006204.txt,2024,2,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2024-05-01,edgar/data/23217/0001558370-24-006398.txt,2024,2,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2024-05-21,edgar/data/23217/0001558370-24-008513.txt,2024,2,,CAG
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2024-05-02,edgar/data/313927/0000950170-24-051562.txt,2024,2,,CHD
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2024-05-06,edgar/data/313927/0001193125-24-131937.txt,2024,2,,CHD
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2024-05-17,edgar/data/313927/0001193125-24-141831.txt,2024,2,,CHD
+40704,GENERAL MILLS INC,8-K,2024-04-23,edgar/data/40704/0001193125-24-105950.txt,2024,2,,GIS
+40704,GENERAL MILLS INC,8-K,2024-05-13,edgar/data/40704/0001193125-24-137317.txt,2024,2,,GIS
+40704,GENERAL MILLS INC,8-K,2024-06-26,edgar/data/40704/0001193125-24-168511.txt,2024,2,,GIS
+47111,HERSHEY CO,8-K,2024-05-03,edgar/data/47111/0000047111-24-000020.txt,2024,2,,HSY
+47111,HERSHEY CO,8-K,2024-05-06,edgar/data/47111/0000047111-24-000027.txt,2024,2,,HSY
+47111,HERSHEY CO,8-K,2024-05-08,edgar/data/47111/0000047111-24-000030.txt,2024,2,,HSY
+47111,HERSHEY CO,8-K,2024-05-23,edgar/data/47111/0000047111-24-000035.txt,2024,2,,HSY
+55067,KELLANOVA,8-K,2024-05-01,edgar/data/55067/0000055067-24-000025.txt,2024,2,,K
+55067,KELLANOVA,8-K,2024-05-02,edgar/data/55067/0001628280-24-019802.txt,2024,2,,K
+55067,KELLANOVA,8-K,2024-05-09,edgar/data/55067/0001193125-24-135360.txt,2024,2,,K
+55067,KELLANOVA,8-K,2024-05-16,edgar/data/55067/0001193125-24-140619.txt,2024,2,,K
+55785,KIMBERLY CLARK CORP,8-K,2024-04-23,edgar/data/55785/0000055785-24-000053.txt,2024,2,,KMB
+55785,KIMBERLY CLARK CORP,8-K,2024-05-02,edgar/data/55785/0000055785-24-000059.txt,2024,2,,KMB
+63276,MATTEL INC /DE/,8-K,2024-04-23,edgar/data/63276/0001628280-24-017375.txt,2024,2,,MAT
+63276,MATTEL INC /DE/,8-K,2024-06-04,edgar/data/63276/0001628280-24-026557.txt,2024,2,,MAT
+66740,3M CO,8-K,2024-04-04,edgar/data/66740/0000066740-24-000044.txt,2024,2,,MMM
+66740,3M CO,8-K,2024-04-04,edgar/data/66740/0001628280-24-014795.txt,2024,2,,MMM
+66740,3M CO,8-K,2024-04-30,edgar/data/66740/0000066740-24-000051.txt,2024,2,,MMM
+66740,3M CO,8-K,2024-05-16,edgar/data/66740/0000066740-24-000058.txt,2024,2,,MMM
+66740,3M CO,8-K,2024-06-13,edgar/data/66740/0000066740-24-000064.txt,2024,2,,MMM
+719955,WILLIAMS SONOMA INC,8-K,2024-05-22,edgar/data/719955/0001628280-24-024629.txt,2024,2,,WSM
+719955,WILLIAMS SONOMA INC,8-K,2024-05-31,edgar/data/719955/0001628280-24-026073.txt,2024,2,,WSM
+719955,WILLIAMS SONOMA INC,8-K,2024-06-13,edgar/data/719955/0001628280-24-028084.txt,2024,2,,WSM
+746598,BRADY CORP,8-K,2024-05-22,edgar/data/746598/0000746598-24-000032.txt,2024,2,,BRC
+746598,BRADY CORP,8-K,2024-05-24,edgar/data/746598/0000746598-24-000039.txt,2024,2,,BRC
+746598,BRADY CORP,8-K,2024-05-30,edgar/data/746598/0000746598-24-000046.txt,2024,2,,BRC
+77476,PEPSICO INC,8-K,2024-04-23,edgar/data/77476/0000077476-24-000019.txt,2024,2,,PEP
+77476,PEPSICO INC,8-K,2024-05-03,edgar/data/77476/0000077476-24-000026.txt,2024,2,,PEP
+77476,PEPSICO INC,8-K,2024-05-24,edgar/data/77476/0001104659-24-065151.txt,2024,2,,PEP
+788329,JOHNSON OUTDOORS INC,8-K,2024-05-03,edgar/data/788329/0001171843-24-002509.txt,2024,2,,JNJ
+788329,JOHNSON OUTDOORS INC,8-K,2024-05-30,edgar/data/788329/0001171843-24-003166.txt,2024,2,,JNJ
+80424,PROCTER & GAMBLE Co,8-K,2024-04-09,edgar/data/80424/0000080424-24-000029.txt,2024,2,,PG
+80424,PROCTER & GAMBLE Co,8-K,2024-04-09,edgar/data/80424/0000080424-24-000030.txt,2024,2,,PG
+80424,PROCTER & GAMBLE Co,8-K,2024-04-19,edgar/data/80424/0000080424-24-000046.txt,2024,2,,PG
+80424,PROCTER & GAMBLE Co,8-K,2024-04-19,edgar/data/80424/0000080424-24-000048.txt,2024,2,,PG
+80424,PROCTER & GAMBLE Co,8-K,2024-04-29,edgar/data/80424/0001193125-24-122626.txt,2024,2,,PG
+814453,NEWELL BRANDS INC.,8-K,2024-04-26,edgar/data/814453/0000814453-24-000053.txt,2024,2,,NWL
+814453,NEWELL BRANDS INC.,8-K,2024-05-10,edgar/data/814453/0001193125-24-136131.txt,2024,2,,NWL
+833444,Johnson Controls International plc,8-K,2024-04-12,edgar/data/833444/0000833444-24-000023.txt,2024,2,,JNJ
+833444,Johnson Controls International plc,8-K,2024-04-19,edgar/data/833444/0001193125-24-102867.txt,2024,2,,JNJ
+833444,Johnson Controls International plc,8-K,2024-05-01,edgar/data/833444/0000833444-24-000026.txt,2024,2,,JNJ
+833444,Johnson Controls International plc,8-K,2024-05-20,edgar/data/833444/0000833444-24-000032.txt,2024,2,,JNJ
+833444,Johnson Controls International plc,8-K,2024-06-04,edgar/data/833444/0001193125-24-154244.txt,2024,2,,JNJ
+916789,HELEN OF TROY LTD,8-K,2024-04-24,edgar/data/916789/0000916789-24-000014.txt,2024,2,,HELE
+916789,HELEN OF TROY LTD,8-K,2024-06-06,edgar/data/916789/0000916789-24-000021.txt,2024,2,,HELE
+1043951,CAMPBELL FUND TRUST,8-K,2024-07-03,edgar/data/1043951/0001140361-24-032348.txt,2024,3,,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2024-08-07,edgar/data/1043951/0001140361-24-036160.txt,2024,3,,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2024-09-05,edgar/data/1043951/0001140361-24-040202.txt,2024,3,,CPB
+106640,WHIRLPOOL CORP /DE/,8-K,2024-07-24,edgar/data/106640/0000106640-24-000122.txt,2024,3,,WHR
+1103982,"Mondelez International, Inc.",8-K,2024-07-01,edgar/data/1103982/0001628280-24-030660.txt,2024,3,,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2024-07-03,edgar/data/1103982/0001628280-24-031094.txt,2024,3,,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2024-07-30,edgar/data/1103982/0001103982-24-000091.txt,2024,3,,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2024-08-23,edgar/data/1103982/0001628280-24-038307.txt,2024,3,,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2024-08-28,edgar/data/1103982/0001628280-24-038666.txt,2024,3,,MDLZ
+1528849,RH,8-K,2024-09-12,edgar/data/1528849/0001558370-24-012764.txt,2024,3,,RH
+1616707,Wayfair Inc.,8-K,2024-08-01,edgar/data/1616707/0001616707-24-000045.txt,2024,3,,W
+1616707,Wayfair Inc.,8-K,2024-09-23,edgar/data/1616707/0001193125-24-223293.txt,2024,3,,W
+1616707,Wayfair Inc.,8-K,2024-09-25,edgar/data/1616707/0001193125-24-225012.txt,2024,3,,W
+1637459,Kraft Heinz Co,8-K,2024-07-31,edgar/data/1637459/0001637459-24-000125.txt,2024,3,,KHC
+1637459,Kraft Heinz Co,8-K,2024-08-05,edgar/data/1637459/0001637459-24-000131.txt,2024,3,,KHC
+1637459,Kraft Heinz Co,8-K,2024-09-27,edgar/data/1637459/0001193125-24-228000.txt,2024,3,,KHC
+16732,CAMPBELL SOUP CO,8-K/A,2024-08-29,edgar/data/16732/0000016732-24-000124.txt,2024,3,,CPB
+16732,CAMPBELL SOUP CO,8-K,2024-08-01,edgar/data/16732/0001193125-24-190785.txt,2024,3,,CPB
+16732,CAMPBELL SOUP CO,8-K,2024-08-26,edgar/data/16732/0000016732-24-000116.txt,2024,3,,CPB
+16732,CAMPBELL SOUP CO,8-K,2024-08-29,edgar/data/16732/0000016732-24-000120.txt,2024,3,,CPB
+16732,CAMPBELL SOUP CO,8-K,2024-09-10,edgar/data/16732/0000016732-24-000127.txt,2024,3,,CPB
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-08-07,edgar/data/1737924/0001628280-24-035377.txt,2024,3,,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-09-03,edgar/data/1737924/0001628280-24-039122.txt,2024,3,,CHD
+1786431,Reynolds Consumer Products Inc.,8-K,2024-08-07,edgar/data/1786431/0001628280-24-035366.txt,2024,3,,REYN
+1786431,Reynolds Consumer Products Inc.,8-K,2024-09-23,edgar/data/1786431/0001193125-24-223772.txt,2024,3,,REYN
+1828248,Churchill Capital Corp VII,8-K,2024-07-25,edgar/data/1828248/0001104659-24-082683.txt,2024,3,,CHD
+1828248,Churchill Capital Corp VII,8-K,2024-08-05,edgar/data/1828248/0001104659-24-085566.txt,2024,3,,CHD
+1828248,Churchill Capital Corp VII,8-K,2024-08-13,edgar/data/1828248/0001104659-24-088598.txt,2024,3,,CHD
+1828248,Churchill Capital Corp VII,8-K,2024-08-19,edgar/data/1828248/0001104659-24-090907.txt,2024,3,,CHD
+1828248,Churchill Capital Corp VII,8-K,2024-08-21,edgar/data/1828248/0001104659-24-091362.txt,2024,3,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-07-19,edgar/data/1911066/0001628280-24-032304.txt,2024,3,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-07-30,edgar/data/1911066/0001628280-24-033322.txt,2024,3,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-08-28,edgar/data/1911066/0001628280-24-038647.txt,2024,3,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-09-25,edgar/data/1911066/0001628280-24-041286.txt,2024,3,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-09-30,edgar/data/1911066/0001628280-24-041551.txt,2024,3,,CHD
+200406,JOHNSON & JOHNSON,8-K,2024-07-17,edgar/data/200406/0000200406-24-000071.txt,2024,3,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2024-08-26,edgar/data/200406/0000200406-24-000079.txt,2024,3,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2024-09-10,edgar/data/200406/0000200406-24-000081.txt,2024,3,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2024-09-20,edgar/data/200406/0000200406-24-000083.txt,2024,3,,JNJ
+2006291,Churchill Capital Corp IX/Cayman,8-K,2024-07-30,edgar/data/2006291/0001193125-24-188849.txt,2024,3,,CHD
+20212,Churchill Downs Inc,8-K,2024-07-03,edgar/data/20212/0001193125-24-175054.txt,2024,3,,CHD
+20212,Churchill Downs Inc,8-K,2024-07-24,edgar/data/20212/0000020212-24-000100.txt,2024,3,,CHD
+20212,Churchill Downs Inc,8-K,2024-07-24,edgar/data/20212/0000020212-24-000102.txt,2024,3,,CHD
+2022625,Nuveen Churchill Private Credit Fund,8-K,2024-08-06,edgar/data/2022625/0001628280-24-034995.txt,2024,3,,CHD
+21076,CLOROX CO /DE/,8-K,2024-08-01,edgar/data/21076/0000021076-24-000027.txt,2024,3,,CLX
+21076,CLOROX CO /DE/,8-K,2024-09-10,edgar/data/21076/0001206774-24-000894.txt,2024,3,,CLX
+21344,COCA COLA CO,8-K,2024-07-23,edgar/data/21344/0000021344-24-000037.txt,2024,3,,KO
+21344,COCA COLA CO,8-K,2024-07-23,edgar/data/21344/0000021344-24-000040.txt,2024,3,,KO
+21344,COCA COLA CO,8-K,2024-08-09,edgar/data/21344/0001552781-24-000465.txt,2024,3,,KO
+21344,COCA COLA CO,8-K,2024-08-14,edgar/data/21344/0001552781-24-000487.txt,2024,3,,KO
+21344,COCA COLA CO,8-K,2024-08-15,edgar/data/21344/0001552781-24-000497.txt,2024,3,,KO
+21344,COCA COLA CO,8-K,2024-08-21,edgar/data/21344/0000021344-24-000047.txt,2024,3,,KO
+21665,COLGATE PALMOLIVE CO,8-K,2024-07-26,edgar/data/21665/0000021665-24-000029.txt,2024,3,,CL
+23217,CONAGRA BRANDS INC.,8-K,2024-07-11,edgar/data/23217/0001558370-24-009749.txt,2024,3,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2024-09-23,edgar/data/23217/0001558370-24-012964.txt,2024,3,,CAG
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2024-07-09,edgar/data/313927/0001193125-24-176580.txt,2024,3,,CHD
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2024-07-25,edgar/data/313927/0001193125-24-184273.txt,2024,3,,CHD
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2024-08-02,edgar/data/313927/0000950170-24-089586.txt,2024,3,,CHD
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2024-09-16,edgar/data/313927/0001193125-24-219646.txt,2024,3,,CHD
+40704,GENERAL MILLS INC,8-K,2024-09-17,edgar/data/40704/0001193125-24-220459.txt,2024,3,,GIS
+40704,GENERAL MILLS INC,8-K,2024-09-18,edgar/data/40704/0001193125-24-221059.txt,2024,3,,GIS
+40704,GENERAL MILLS INC,8-K,2024-09-27,edgar/data/40704/0001193125-24-227737.txt,2024,3,,GIS
+47111,HERSHEY CO,8-K,2024-08-01,edgar/data/47111/0000047111-24-000043.txt,2024,3,,HSY
+47111,HERSHEY CO,8-K,2024-09-05,edgar/data/47111/0000047111-24-000049.txt,2024,3,,HSY
+55067,KELLANOVA,8-K,2024-08-01,edgar/data/55067/0001628280-24-033893.txt,2024,3,,K
+55067,KELLANOVA,8-K,2024-08-14,edgar/data/55067/0001193125-24-200233.txt,2024,3,,K
+55785,KIMBERLY CLARK CORP,8-K,2024-07-23,edgar/data/55785/0000055785-24-000081.txt,2024,3,,KMB
+63276,MATTEL INC /DE/,8-K,2024-07-16,edgar/data/63276/0001628280-24-031973.txt,2024,3,,MAT
+63276,MATTEL INC /DE/,8-K,2024-07-23,edgar/data/63276/0001628280-24-032594.txt,2024,3,,MAT
+63276,MATTEL INC /DE/,8-K,2024-09-13,edgar/data/63276/0001628280-24-040348.txt,2024,3,,MAT
+66740,3M CO,8-K,2024-07-10,edgar/data/66740/0000066740-24-000070.txt,2024,3,,MMM
+66740,3M CO,8-K,2024-07-26,edgar/data/66740/0000066740-24-000077.txt,2024,3,,MMM
+66740,3M CO,8-K,2024-08-01,edgar/data/66740/0000066740-24-000088.txt,2024,3,,MMM
+66740,3M CO,8-K,2024-08-20,edgar/data/66740/0000066740-24-000091.txt,2024,3,,MMM
+719955,WILLIAMS SONOMA INC,8-K,2024-08-01,edgar/data/719955/0001628280-24-034200.txt,2024,3,,WSM
+719955,WILLIAMS SONOMA INC,8-K,2024-08-22,edgar/data/719955/0001628280-24-038109.txt,2024,3,,WSM
+719955,WILLIAMS SONOMA INC,8-K,2024-09-27,edgar/data/719955/0001628280-24-041493.txt,2024,3,,WSM
+746598,BRADY CORP,8-K,2024-07-10,edgar/data/746598/0000746598-24-000055.txt,2024,3,,BRC
+746598,BRADY CORP,8-K,2024-08-01,edgar/data/746598/0000746598-24-000057.txt,2024,3,,BRC
+746598,BRADY CORP,8-K,2024-09-06,edgar/data/746598/0000746598-24-000064.txt,2024,3,,BRC
+746598,BRADY CORP,8-K,2024-09-10,edgar/data/746598/0000746598-24-000073.txt,2024,3,,BRC
+77476,PEPSICO INC,8-K,2024-07-11,edgar/data/77476/0000077476-24-000043.txt,2024,3,,PEP
+77476,PEPSICO INC,8-K,2024-07-17,edgar/data/77476/0001104659-24-080566.txt,2024,3,,PEP
+77476,PEPSICO INC,8-K,2024-09-20,edgar/data/77476/0000077476-24-000046.txt,2024,3,,PEP
+788329,JOHNSON OUTDOORS INC,8-K,2024-08-05,edgar/data/788329/0001171843-24-004414.txt,2024,3,,JNJ
+788329,JOHNSON OUTDOORS INC,8-K,2024-09-25,edgar/data/788329/0001171843-24-005348.txt,2024,3,,JNJ
+80424,PROCTER & GAMBLE Co,8-K,2024-07-09,edgar/data/80424/0000080424-24-000063.txt,2024,3,,PG
+80424,PROCTER & GAMBLE Co,8-K,2024-07-30,edgar/data/80424/0000080424-24-000071.txt,2024,3,,PG
+80424,PROCTER & GAMBLE Co,8-K,2024-07-30,edgar/data/80424/0000080424-24-000073.txt,2024,3,,PG
+814453,NEWELL BRANDS INC.,8-K,2024-07-26,edgar/data/814453/0000814453-24-000102.txt,2024,3,,NWL
+833444,Johnson Controls International plc,8-K,2024-07-23,edgar/data/833444/0000833444-24-000044.txt,2024,3,,JNJ
+833444,Johnson Controls International plc,8-K,2024-07-26,edgar/data/833444/0001193125-24-186281.txt,2024,3,,JNJ
+833444,Johnson Controls International plc,8-K,2024-07-31,edgar/data/833444/0000833444-24-000049.txt,2024,3,,JNJ
+833444,Johnson Controls International plc,8-K,2024-08-05,edgar/data/833444/0000833444-24-000055.txt,2024,3,,JNJ
+916789,HELEN OF TROY LTD,8-K,2024-07-09,edgar/data/916789/0000916789-24-000029.txt,2024,3,,HELE
+916789,HELEN OF TROY LTD,8-K,2024-08-23,edgar/data/916789/0000916789-24-000032.txt,2024,3,,HELE
+1043951,CAMPBELL FUND TRUST,8-K,2024-10-03,edgar/data/1043951/0001140361-24-042728.txt,2024,4,,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2024-11-05,edgar/data/1043951/0001140361-24-045227.txt,2024,4,,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2024-11-12,edgar/data/1043951/0001140361-24-046021.txt,2024,4,,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2024-12-05,edgar/data/1043951/0001140361-24-048454.txt,2024,4,,CPB
+106640,WHIRLPOOL CORP /DE/,8-K,2024-10-23,edgar/data/106640/0000106640-24-000147.txt,2024,4,,WHR
+1103982,"Mondelez International, Inc.",8-K,2024-10-29,edgar/data/1103982/0001103982-24-000102.txt,2024,4,,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2024-12-03,edgar/data/1103982/0001193125-24-269487.txt,2024,4,,MDLZ
+1528849,RH,8-K,2024-12-12,edgar/data/1528849/0001558370-24-016181.txt,2024,4,,RH
+1616707,Wayfair Inc.,8-K,2024-10-08,edgar/data/1616707/0001193125-24-234463.txt,2024,4,,W
+1616707,Wayfair Inc.,8-K,2024-11-01,edgar/data/1616707/0001616707-24-000051.txt,2024,4,,W
+1616707,Wayfair Inc.,8-K,2024-11-07,edgar/data/1616707/0001616707-24-000061.txt,2024,4,,W
+1616707,Wayfair Inc.,8-K,2024-11-12,edgar/data/1616707/0001616707-24-000064.txt,2024,4,,W
+1637459,Kraft Heinz Co,8-K,2024-10-28,edgar/data/1637459/0001637459-24-000135.txt,2024,4,,KHC
+1637459,Kraft Heinz Co,8-K,2024-10-30,edgar/data/1637459/0001637459-24-000138.txt,2024,4,,KHC
+1637459,Kraft Heinz Co,8-K,2024-11-15,edgar/data/1637459/0001637459-24-000150.txt,2024,4,,KHC
+16732,CAMPBELL SOUP CO,8-K,2024-10-02,edgar/data/16732/0001193125-24-231157.txt,2024,4,,CPB
+16732,CAMPBELL SOUP CO,8-K,2024-11-12,edgar/data/16732/0000016732-24-000189.txt,2024,4,,CPB
+16732,CAMPBELL'S Co,8-K,2024-11-20,edgar/data/16732/0000016732-24-000194.txt,2024,4,,CPB
+16732,CAMPBELL'S Co,8-K,2024-12-03,edgar/data/16732/0000016732-24-000198.txt,2024,4,,CPB
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-10-09,edgar/data/1737924/0001628280-24-042559.txt,2024,4,,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2024-11-07,edgar/data/1737924/0001628280-24-045985.txt,2024,4,,CHD
+1786431,Reynolds Consumer Products Inc.,8-K,2024-10-17,edgar/data/1786431/0001628280-24-043021.txt,2024,4,,REYN
+1786431,Reynolds Consumer Products Inc.,8-K,2024-10-30,edgar/data/1786431/0001193125-24-246994.txt,2024,4,,REYN
+1911066,Nuveen Churchill Private Capital Income Fund,8-K/A,2024-12-19,edgar/data/1911066/0001628280-24-052041.txt,2024,4,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-10-29,edgar/data/1911066/0001628280-24-044007.txt,2024,4,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-10-30,edgar/data/1911066/0001628280-24-044333.txt,2024,4,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-11-05,edgar/data/1911066/0001628280-24-045157.txt,2024,4,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-11-27,edgar/data/1911066/0001628280-24-049385.txt,2024,4,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-12-02,edgar/data/1911066/0001628280-24-049531.txt,2024,4,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-12-12,edgar/data/1911066/0001628280-24-050998.txt,2024,4,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2024-12-27,edgar/data/1911066/0001628280-24-052479.txt,2024,4,,CHD
+200406,JOHNSON & JOHNSON,8-K,2024-10-15,edgar/data/200406/0000200406-24-000088.txt,2024,4,,JNJ
+20212,Churchill Downs Inc,8-K,2024-10-23,edgar/data/20212/0000020212-24-000115.txt,2024,4,,CHD
+2022625,Nuveen Churchill Private Credit Fund,8-K,2024-10-29,edgar/data/2022625/0001628280-24-044008.txt,2024,4,,CHD
+2022625,Nuveen Churchill Private Credit Fund,8-K,2024-11-13,edgar/data/2022625/0001628280-24-047451.txt,2024,4,,CHD
+2022625,Nuveen Churchill Private Credit Fund,8-K,2024-12-09,edgar/data/2022625/0001628280-24-050351.txt,2024,4,,CHD
+2022625,Nuveen Churchill Private Credit Fund,8-K,2024-12-12,edgar/data/2022625/0001628280-24-050967.txt,2024,4,,CHD
+21076,CLOROX CO /DE/,8-K,2024-10-30,edgar/data/21076/0000021076-24-000038.txt,2024,4,,CLX
+21076,CLOROX CO /DE/,8-K,2024-11-21,edgar/data/21076/0001206774-24-001005.txt,2024,4,,CLX
+21344,COCA COLA CO,8-K,2024-10-17,edgar/data/21344/0000021344-24-000051.txt,2024,4,,KO
+21344,COCA COLA CO,8-K,2024-10-23,edgar/data/21344/0000021344-24-000056.txt,2024,4,,KO
+21344,COCA COLA CO,8-K,2024-12-11,edgar/data/21344/0001552781-24-000626.txt,2024,4,,KO
+21344,COCA COLA CO,8-K,2024-12-16,edgar/data/21344/0001552781-24-000634.txt,2024,4,,KO
+21665,COLGATE PALMOLIVE CO,8-K,2024-10-25,edgar/data/21665/0000021665-24-000042.txt,2024,4,,CL
+23217,CONAGRA BRANDS INC.,8-K,2024-10-02,edgar/data/23217/0001558370-24-013121.txt,2024,4,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2024-12-19,edgar/data/23217/0001558370-24-016370.txt,2024,4,,CAG
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2024-11-01,edgar/data/313927/0000950170-24-119799.txt,2024,4,,CHD
+40704,GENERAL MILLS INC,8-K,2024-10-15,edgar/data/40704/0001193125-24-237500.txt,2024,4,,GIS
+40704,GENERAL MILLS INC,8-K,2024-11-15,edgar/data/40704/0001193125-24-259737.txt,2024,4,,GIS
+40704,GENERAL MILLS INC,8-K,2024-11-21,edgar/data/40704/0001193125-24-263045.txt,2024,4,,GIS
+40704,GENERAL MILLS INC,8-K,2024-12-18,edgar/data/40704/0001193125-24-280822.txt,2024,4,,GIS
+47111,HERSHEY CO,8-K,2024-11-07,edgar/data/47111/0000047111-24-000053.txt,2024,4,,HSY
+55067,KELLANOVA,8-K,2024-10-21,edgar/data/55067/0001193125-24-240418.txt,2024,4,,K
+55067,KELLANOVA,8-K,2024-10-31,edgar/data/55067/0001628280-24-044434.txt,2024,4,,K
+55067,KELLANOVA,8-K,2024-11-04,edgar/data/55067/0001193125-24-250196.txt,2024,4,,K
+55067,KELLANOVA,8-K,2024-12-12,edgar/data/55067/0001193125-24-277091.txt,2024,4,,K
+55785,KIMBERLY CLARK CORP,8-K,2024-10-22,edgar/data/55785/0000055785-24-000091.txt,2024,4,,KMB
+55785,KIMBERLY CLARK CORP,8-K,2024-11-13,edgar/data/55785/0000055785-24-000098.txt,2024,4,,KMB
+55785,KIMBERLY CLARK CORP,8-K,2024-12-10,edgar/data/55785/0000055785-24-000107.txt,2024,4,,KMB
+63276,MATTEL INC /DE/,8-K,2024-10-23,edgar/data/63276/0001628280-24-043430.txt,2024,4,,MAT
+66740,3M CO,8-K,2024-10-22,edgar/data/66740/0000066740-24-000098.txt,2024,4,,MMM
+719955,WILLIAMS SONOMA INC,8-K,2024-11-20,edgar/data/719955/0001628280-24-048597.txt,2024,4,,WSM
+746598,BRADY CORP,8-K,2024-10-11,edgar/data/746598/0000746598-24-000132.txt,2024,4,,BRC
+746598,BRADY CORP,8-K,2024-11-18,edgar/data/746598/0000746598-24-000137.txt,2024,4,,BRC
+746598,BRADY CORP,8-K,2024-12-04,edgar/data/746598/0000746598-24-000149.txt,2024,4,,BRC
+77476,PEPSICO INC,8-K,2024-10-08,edgar/data/77476/0000077476-24-000054.txt,2024,4,,PEP
+77476,PEPSICO INC,8-K,2024-12-11,edgar/data/77476/0000077476-24-000058.txt,2024,4,,PEP
+788329,JOHNSON OUTDOORS INC,8-K,2024-12-05,edgar/data/788329/0001171843-24-006760.txt,2024,4,,JNJ
+788329,JOHNSON OUTDOORS INC,8-K,2024-12-10,edgar/data/788329/0001171843-24-006845.txt,2024,4,,JNJ
+80424,PROCTER & GAMBLE Co,8-K,2024-10-08,edgar/data/80424/0000080424-24-000098.txt,2024,4,,PG
+80424,PROCTER & GAMBLE Co,8-K,2024-10-10,edgar/data/80424/0000080424-24-000100.txt,2024,4,,PG
+80424,PROCTER & GAMBLE Co,8-K,2024-10-18,edgar/data/80424/0000080424-24-000108.txt,2024,4,,PG
+80424,PROCTER & GAMBLE Co,8-K,2024-10-18,edgar/data/80424/0000080424-24-000110.txt,2024,4,,PG
+80424,PROCTER & GAMBLE Co,8-K,2024-10-24,edgar/data/80424/0001193125-24-242887.txt,2024,4,,PG
+814453,NEWELL BRANDS INC.,8-K,2024-10-25,edgar/data/814453/0000814453-24-000111.txt,2024,4,,NWL
+814453,NEWELL BRANDS INC.,8-K,2024-10-30,edgar/data/814453/0001193125-24-247647.txt,2024,4,,NWL
+814453,NEWELL BRANDS INC.,8-K,2024-11-13,edgar/data/814453/0001193125-24-256691.txt,2024,4,,NWL
+833444,Johnson Controls International plc,8-K,2024-11-06,edgar/data/833444/0000833444-24-000060.txt,2024,4,,JNJ
+833444,Johnson Controls International plc,8-K,2024-12-10,edgar/data/833444/0001193125-24-274338.txt,2024,4,,JNJ
+833444,Johnson Controls International plc,8-K,2024-12-11,edgar/data/833444/0001193125-24-275613.txt,2024,4,,JNJ
+833444,Johnson Controls International plc,8-K,2024-12-12,edgar/data/833444/0000833444-24-000066.txt,2024,4,,JNJ
+916789,HELEN OF TROY LTD,8-K,2024-10-09,edgar/data/916789/0000916789-24-000036.txt,2024,4,,HELE
+916789,HELEN OF TROY LTD,8-K,2024-11-21,edgar/data/916789/0000916789-24-000039.txt,2024,4,,HELE
+916789,HELEN OF TROY LTD,8-K,2024-12-16,edgar/data/916789/0000916789-24-000041.txt,2024,4,,HELE
+1043951,CAMPBELL FUND TRUST,8-K,2025-01-06,edgar/data/1043951/0001140361-25-000340.txt,2025,1,,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2025-02-07,edgar/data/1043951/0001140361-25-003597.txt,2025,1,,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2025-03-05,edgar/data/1043951/0001140361-25-007200.txt,2025,1,,CPB
+106640,WHIRLPOOL CORP /DE/,8-K/A,2025-02-18,edgar/data/106640/0000106640-25-000017.txt,2025,1,,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2025-01-29,edgar/data/106640/0000106640-25-000006.txt,2025,1,,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2025-02-18,edgar/data/106640/0000106640-25-000014.txt,2025,1,,WHR
+1103982,"Mondelez International, Inc.",8-K,2025-01-15,edgar/data/1103982/0001103982-25-000005.txt,2025,1,,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2025-01-27,edgar/data/1103982/0001103982-25-000012.txt,2025,1,,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2025-02-04,edgar/data/1103982/0001103982-25-000024.txt,2025,1,,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2025-02-18,edgar/data/1103982/0001103982-25-000059.txt,2025,1,,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2025-02-20,edgar/data/1103982/0001103982-25-000065.txt,2025,1,,MDLZ
+1616707,Wayfair Inc.,8-K,2025-01-10,edgar/data/1616707/0001616707-25-000003.txt,2025,1,,W
+1616707,Wayfair Inc.,8-K,2025-01-31,edgar/data/1616707/0001616707-25-000007.txt,2025,1,,W
+1616707,Wayfair Inc.,8-K,2025-02-14,edgar/data/1616707/0001616707-25-000016.txt,2025,1,,W
+1616707,Wayfair Inc.,8-K,2025-02-20,edgar/data/1616707/0001616707-25-000020.txt,2025,1,,W
+1616707,Wayfair Inc.,8-K,2025-03-07,edgar/data/1616707/0001616707-25-000028.txt,2025,1,,W
+1616707,Wayfair Inc.,8-K,2025-03-10,edgar/data/1616707/0001193125-25-050409.txt,2025,1,,W
+1616707,Wayfair Inc.,8-K,2025-03-11,edgar/data/1616707/0001193125-25-051425.txt,2025,1,,W
+1616707,Wayfair Inc.,8-K,2025-03-14,edgar/data/1616707/0001193125-25-054415.txt,2025,1,,W
+1637459,Kraft Heinz Co,8-K,2025-02-12,edgar/data/1637459/0001637459-25-000006.txt,2025,1,,KHC
+1637459,Kraft Heinz Co,8-K,2025-02-25,edgar/data/1637459/0001193125-25-035123.txt,2025,1,,KHC
+16732,CAMPBELL'S Co,8-K,2025-02-24,edgar/data/16732/0000016732-25-000018.txt,2025,1,,CPB
+16732,CAMPBELL'S Co,8-K,2025-03-05,edgar/data/16732/0000016732-25-000025.txt,2025,1,,CPB
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2025-01-15,edgar/data/1737924/0001628280-25-001630.txt,2025,1,,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2025-01-22,edgar/data/1737924/0001628280-25-002219.txt,2025,1,,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2025-01-29,edgar/data/1737924/0001628280-25-002998.txt,2025,1,,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2025-02-14,edgar/data/1737924/0001628280-25-005793.txt,2025,1,,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2025-02-27,edgar/data/1737924/0001628280-25-008425.txt,2025,1,,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2025-03-10,edgar/data/1737924/0001628280-25-011689.txt,2025,1,,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2025-03-26,edgar/data/1737924/0001628280-25-014963.txt,2025,1,,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2025-03-28,edgar/data/1737924/0001628280-25-015443.txt,2025,1,,CHD
+1786431,Reynolds Consumer Products Inc.,8-K,2025-02-05,edgar/data/1786431/0001628280-25-003918.txt,2025,1,,REYN
+1786431,Reynolds Consumer Products Inc.,8-K,2025-03-04,edgar/data/1786431/0001628280-25-009801.txt,2025,1,,REYN
+1911066,Nuveen Churchill Private Capital Income Fund,8-K/A,2025-02-11,edgar/data/1911066/0001628280-25-004867.txt,2025,1,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-01-30,edgar/data/1911066/0001628280-25-003056.txt,2025,1,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-02-07,edgar/data/1911066/0001628280-25-004296.txt,2025,1,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-02-07,edgar/data/1911066/0001628280-25-004298.txt,2025,1,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-02-14,edgar/data/1911066/0001628280-25-005634.txt,2025,1,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-03-03,edgar/data/1911066/0001628280-25-009512.txt,2025,1,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-03-28,edgar/data/1911066/0001628280-25-015392.txt,2025,1,,CHD
+200406,JOHNSON & JOHNSON,8-K/A,2025-01-22,edgar/data/200406/0000200406-25-000007.txt,2025,1,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2025-01-22,edgar/data/200406/0000200406-25-000003.txt,2025,1,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2025-02-20,edgar/data/200406/0001193125-25-030851.txt,2025,1,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2025-02-26,edgar/data/200406/0001193125-25-036773.txt,2025,1,,JNJ
+20212,Churchill Downs Inc,8-K,2025-02-14,edgar/data/20212/0001193125-25-027242.txt,2025,1,,CHD
+20212,Churchill Downs Inc,8-K,2025-02-19,edgar/data/20212/0000020212-25-000050.txt,2025,1,,CHD
+20212,Churchill Downs Inc,8-K,2025-03-12,edgar/data/20212/0000020212-25-000053.txt,2025,1,,CHD
+20212,Churchill Downs Inc,8-K,2025-03-14,edgar/data/20212/0000020212-25-000056.txt,2025,1,,CHD
+21076,CLOROX CO /DE/,8-K,2025-01-28,edgar/data/21076/0001206774-25-000035.txt,2025,1,,CLX
+21076,CLOROX CO /DE/,8-K,2025-02-03,edgar/data/21076/0000021076-25-000010.txt,2025,1,,CLX
+21076,CLOROX CO /DE/,8-K,2025-03-28,edgar/data/21076/0001206774-25-000171.txt,2025,1,,CLX
+21344,COCA COLA CO,8-K,2025-02-11,edgar/data/21344/0000021344-25-000005.txt,2025,1,,KO
+21344,COCA COLA CO,8-K,2025-03-27,edgar/data/21344/0000021344-25-000019.txt,2025,1,,KO
+21665,COLGATE PALMOLIVE CO,8-K/A,2025-01-24,edgar/data/21665/0000021665-25-000002.txt,2025,1,,CL
+21665,COLGATE PALMOLIVE CO,8-K,2025-01-31,edgar/data/21665/0000021665-25-000005.txt,2025,1,,CL
+23217,CONAGRA BRANDS INC.,8-K,2025-02-18,edgar/data/23217/0000023217-25-000004.txt,2025,1,,CAG
+313927,CHURCH & DWIGHT CO INC /DE/,8-K/A,2025-01-31,edgar/data/313927/0001193125-25-018422.txt,2025,1,,CHD
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2025-01-31,edgar/data/313927/0000950170-25-011420.txt,2025,1,,CHD
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2025-03-14,edgar/data/313927/0001193125-25-054846.txt,2025,1,,CHD
+40704,GENERAL MILLS INC,8-K,2025-02-04,edgar/data/40704/0001193125-25-020008.txt,2025,1,,GIS
+40704,GENERAL MILLS INC,8-K,2025-03-05,edgar/data/40704/0001193125-25-047345.txt,2025,1,,GIS
+40704,GENERAL MILLS INC,8-K,2025-03-19,edgar/data/40704/0001193125-25-057150.txt,2025,1,,GIS
+46640,Kraft Heinz Foods Co,8-K,2025-02-25,edgar/data/46640/0001193125-25-035123.txt,2025,1,,KHC
+47111,HERSHEY CO,8-K,2025-01-13,edgar/data/47111/0000047111-25-000004.txt,2025,1,,HSY
+47111,HERSHEY CO,8-K,2025-01-15,edgar/data/47111/0000047111-25-000008.txt,2025,1,,HSY
+47111,HERSHEY CO,8-K,2025-02-06,edgar/data/47111/0000047111-25-000011.txt,2025,1,,HSY
+47111,HERSHEY CO,8-K,2025-02-20,edgar/data/47111/0001628280-25-006795.txt,2025,1,,HSY
+47111,HERSHEY CO,8-K,2025-02-24,edgar/data/47111/0001628280-25-007386.txt,2025,1,,HSY
+47111,HERSHEY CO,8-K,2025-02-25,edgar/data/47111/0000047111-25-000019.txt,2025,1,,HSY
+47111,HERSHEY CO,8-K,2025-03-07,edgar/data/47111/0000047111-25-000022.txt,2025,1,,HSY
+47111,HERSHEY CO,8-K,2025-03-10,edgar/data/47111/0000047111-25-000026.txt,2025,1,,HSY
+55067,KELLANOVA,8-K,2025-02-06,edgar/data/55067/0001628280-25-004193.txt,2025,1,,K
+55067,KELLANOVA,8-K,2025-02-27,edgar/data/55067/0000055067-25-000123.txt,2025,1,,K
+55067,KELLANOVA,8-K,2025-03-12,edgar/data/55067/0001193125-25-053048.txt,2025,1,,K
+55785,KIMBERLY CLARK CORP,8-K,2025-01-28,edgar/data/55785/0000055785-25-000005.txt,2025,1,,KMB
+55785,KIMBERLY CLARK CORP,8-K,2025-01-28,edgar/data/55785/0000055785-25-000008.txt,2025,1,,KMB
+63276,MATTEL INC /DE/,8-K,2025-01-16,edgar/data/63276/0001193125-25-007713.txt,2025,1,,MAT
+63276,MATTEL INC /DE/,8-K,2025-02-04,edgar/data/63276/0001628280-25-003671.txt,2025,1,,MAT
+66740,3M CO,8-K,2025-01-21,edgar/data/66740/0000066740-25-000002.txt,2025,1,,MMM
+66740,3M CO,8-K,2025-02-10,edgar/data/66740/0000066740-25-000012.txt,2025,1,,MMM
+66740,3M CO,8-K,2025-02-21,edgar/data/66740/0000066740-25-000015.txt,2025,1,,MMM
+66740,3M CO,8-K,2025-02-26,edgar/data/66740/0000066740-25-000019.txt,2025,1,,MMM
+66740,3M CO,8-K,2025-03-13,edgar/data/66740/0001104659-25-023448.txt,2025,1,,MMM
+719955,WILLIAMS SONOMA INC,8-K,2025-03-19,edgar/data/719955/0001628280-25-013687.txt,2025,1,,WSM
+746598,BRADY CORP,8-K,2025-02-21,edgar/data/746598/0000746598-25-000007.txt,2025,1,,BRC
+746598,BRADY CORP,8-K,2025-02-28,edgar/data/746598/0000746598-25-000012.txt,2025,1,,BRC
+77476,PEPSICO INC,8-K/A,2025-02-07,edgar/data/77476/0000077476-25-000012.txt,2025,1,,PEP
+77476,PEPSICO INC,8-K,2025-02-04,edgar/data/77476/0000077476-25-000008.txt,2025,1,,PEP
+77476,PEPSICO INC,8-K,2025-02-07,edgar/data/77476/0001104659-25-010578.txt,2025,1,,PEP
+788329,JOHNSON OUTDOORS INC,8-K,2025-02-03,edgar/data/788329/0001171843-25-000566.txt,2025,1,,JNJ
+788329,JOHNSON OUTDOORS INC,8-K,2025-02-28,edgar/data/788329/0001140361-25-006438.txt,2025,1,,JNJ
+788329,JOHNSON OUTDOORS INC,8-K,2025-02-28,edgar/data/788329/0001171843-25-001138.txt,2025,1,,JNJ
+80424,PROCTER & GAMBLE Co,8-K,2025-01-14,edgar/data/80424/0000080424-25-000003.txt,2025,1,,PG
+80424,PROCTER & GAMBLE Co,8-K,2025-01-22,edgar/data/80424/0000080424-25-000009.txt,2025,1,,PG
+80424,PROCTER & GAMBLE Co,8-K,2025-01-22,edgar/data/80424/0000080424-25-000011.txt,2025,1,,PG
+814453,NEWELL BRANDS INC.,8-K,2025-02-07,edgar/data/814453/0000814453-25-000003.txt,2025,1,,NWL
+814453,NEWELL BRANDS INC.,8-K,2025-02-19,edgar/data/814453/0000950170-25-023244.txt,2025,1,,NWL
+833444,Johnson Controls International plc,8-K,2025-01-10,edgar/data/833444/0000833444-25-000002.txt,2025,1,,JNJ
+833444,Johnson Controls International plc,8-K,2025-02-05,edgar/data/833444/0000833444-25-000009.txt,2025,1,,JNJ
+833444,Johnson Controls International plc,8-K,2025-02-05,edgar/data/833444/0001104659-25-009733.txt,2025,1,,JNJ
+833444,Johnson Controls International plc,8-K,2025-03-14,edgar/data/833444/0000833444-25-000019.txt,2025,1,,JNJ
+916789,HELEN OF TROY LTD,8-K,2025-01-08,edgar/data/916789/0000916789-25-000003.txt,2025,1,,HELE
+1043951,CAMPBELL FUND TRUST,8-K,2025-04-03,edgar/data/1043951/0001140361-25-012026.txt,2025,2,,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2025-05-06,edgar/data/1043951/0001140361-25-017516.txt,2025,2,,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2025-06-04,edgar/data/1043951/0001140361-25-021392.txt,2025,2,,CPB
+106640,WHIRLPOOL CORP /DE/,8-K,2025-04-16,edgar/data/106640/0000106640-25-000043.txt,2025,2,,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2025-04-23,edgar/data/106640/0000106640-25-000072.txt,2025,2,,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2025-06-11,edgar/data/106640/0001193125-25-139153.txt,2025,2,,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2025-06-17,edgar/data/106640/0000106640-25-000086.txt,2025,2,,WHR
+1103982,"Mondelez International, Inc.",8-K,2025-04-29,edgar/data/1103982/0001103982-25-000126.txt,2025,2,,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2025-05-06,edgar/data/1103982/0001628280-25-022707.txt,2025,2,,MDLZ
+1103982,"Mondelez International, Inc.",8-K,2025-05-27,edgar/data/1103982/0001103982-25-000171.txt,2025,2,,MDLZ
+1528849,RH,8-K,2025-04-02,edgar/data/1528849/0001558370-25-004324.txt,2025,2,,RH
+1528849,RH,8-K,2025-04-08,edgar/data/1528849/0001558370-25-004573.txt,2025,2,,RH
+1528849,RH,8-K,2025-04-28,edgar/data/1528849/0001558370-25-005681.txt,2025,2,,RH
+1528849,RH,8-K,2025-05-27,edgar/data/1528849/0001558370-25-008163.txt,2025,2,,RH
+1528849,RH,8-K,2025-06-12,edgar/data/1528849/0001558370-25-008566.txt,2025,2,,RH
+1616707,Wayfair Inc.,8-K,2025-05-01,edgar/data/1616707/0001616707-25-000045.txt,2025,2,,W
+1616707,Wayfair Inc.,8-K,2025-05-22,edgar/data/1616707/0001616707-25-000053.txt,2025,2,,W
+1637459,Kraft Heinz Co,8-K,2025-04-29,edgar/data/1637459/0001637459-25-000059.txt,2025,2,,KHC
+1637459,Kraft Heinz Co,8-K,2025-05-13,edgar/data/1637459/0001637459-25-000098.txt,2025,2,,KHC
+1637459,Kraft Heinz Co,8-K,2025-05-20,edgar/data/1637459/0001637459-25-000102.txt,2025,2,,KHC
+1637459,Kraft Heinz Co,8-K,2025-06-17,edgar/data/1637459/0001637459-25-000107.txt,2025,2,,KHC
+16732,CAMPBELL'S Co,8-K,2025-06-02,edgar/data/16732/0000016732-25-000063.txt,2025,2,,CPB
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2025-05-08,edgar/data/1737924/0001628280-25-023453.txt,2025,2,,CHD
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2025-06-04,edgar/data/1737924/0001628280-25-029308.txt,2025,2,,CHD
+1786431,Reynolds Consumer Products Inc.,8-K,2025-04-24,edgar/data/1786431/0001628280-25-019650.txt,2025,2,,REYN
+1786431,Reynolds Consumer Products Inc.,8-K,2025-04-30,edgar/data/1786431/0001628280-25-020810.txt,2025,2,,REYN
+1786431,Reynolds Consumer Products Inc.,8-K,2025-05-14,edgar/data/1786431/0001628280-25-025325.txt,2025,2,,REYN
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-04-11,edgar/data/1911066/0001628280-25-017534.txt,2025,2,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-04-29,edgar/data/1911066/0001628280-25-020771.txt,2025,2,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-05-06,edgar/data/1911066/0001628280-25-022516.txt,2025,2,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-05-29,edgar/data/1911066/0001628280-25-028419.txt,2025,2,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-05-29,edgar/data/1911066/0001628280-25-028420.txt,2025,2,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-06-04,edgar/data/1911066/0001628280-25-029332.txt,2025,2,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-06-30,edgar/data/1911066/0001911066-25-000005.txt,2025,2,,CHD
+200406,JOHNSON & JOHNSON,8-K,2025-04-03,edgar/data/200406/0000200406-25-000106.txt,2025,2,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2025-04-15,edgar/data/200406/0000200406-25-000110.txt,2025,2,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2025-04-30,edgar/data/200406/0000200406-25-000141.txt,2025,2,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2025-06-10,edgar/data/200406/0000200406-25-000152.txt,2025,2,,JNJ
+2006291,Churchill Capital Corp IX/Cayman,8-K,2025-04-22,edgar/data/2006291/0001193125-25-089242.txt,2025,2,,CHD
+2006291,Churchill Capital Corp IX/Cayman,8-K,2025-06-05,edgar/data/2006291/0001193125-25-135336.txt,2025,2,,CHD
+2006291,Churchill Capital Corp IX/Cayman,8-K,2025-06-06,edgar/data/2006291/0001193125-25-136264.txt,2025,2,,CHD
+2007825,Churchill Capital Corp X/Cayman,8-K,2025-05-16,edgar/data/2007825/0001193125-25-121305.txt,2025,2,,CHD
+2007825,Churchill Capital Corp X/Cayman,8-K,2025-05-21,edgar/data/2007825/0001193125-25-123979.txt,2025,2,,CHD
+20212,Churchill Downs Inc,8-K,2025-04-22,edgar/data/20212/0000020212-25-000062.txt,2025,2,,CHD
+20212,Churchill Downs Inc,8-K,2025-04-23,edgar/data/20212/0000020212-25-000065.txt,2025,2,,CHD
+20212,Churchill Downs Inc,8-K,2025-06-26,edgar/data/20212/0001193125-25-149153.txt,2025,2,,CHD
+21076,CLOROX CO /DE/,8-K,2025-05-05,edgar/data/21076/0000021076-25-000021.txt,2025,2,,CLX
+21076,CLOROX CO /DE/,8-K,2025-05-12,edgar/data/21076/0001206774-25-000357.txt,2025,2,,CLX
+21076,CLOROX CO /DE/,8-K,2025-05-23,edgar/data/21076/0001206774-25-000377.txt,2025,2,,CLX
+21344,COCA COLA CO,8-K,2025-04-29,edgar/data/21344/0000021344-25-000024.txt,2025,2,,KO
+21344,COCA COLA CO,8-K,2025-05-02,edgar/data/21344/0000021344-25-000033.txt,2025,2,,KO
+21344,COCA COLA CO,8-K,2025-06-26,edgar/data/21344/0000021344-25-000047.txt,2025,2,,KO
+21665,COLGATE PALMOLIVE CO,8-K,2025-04-25,edgar/data/21665/0000021665-25-000019.txt,2025,2,,CL
+21665,COLGATE PALMOLIVE CO,8-K,2025-05-02,edgar/data/21665/0001104659-25-044105.txt,2025,2,,CL
+21665,COLGATE PALMOLIVE CO,8-K,2025-05-14,edgar/data/21665/0000021665-25-000022.txt,2025,2,,CL
+21665,COLGATE PALMOLIVE CO,8-K,2025-05-29,edgar/data/21665/0000021665-25-000025.txt,2025,2,,CL
+23217,CONAGRA BRANDS INC.,8-K,2025-04-03,edgar/data/23217/0000023217-25-000011.txt,2025,2,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2025-04-30,edgar/data/23217/0000023217-25-000019.txt,2025,2,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2025-05-01,edgar/data/23217/0000023217-25-000024.txt,2025,2,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2025-06-18,edgar/data/23217/0000023217-25-000029.txt,2025,2,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2025-06-30,edgar/data/23217/0000023217-25-000035.txt,2025,2,,CAG
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2025-05-01,edgar/data/313927/0000950170-25-061438.txt,2025,2,,CHD
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2025-05-02,edgar/data/313927/0001193125-25-111690.txt,2025,2,,CHD
+40704,GENERAL MILLS INC,8-K,2025-04-17,edgar/data/40704/0001193125-25-083512.txt,2025,2,,GIS
+40704,GENERAL MILLS INC,8-K,2025-05-19,edgar/data/40704/0001193125-25-122541.txt,2025,2,,GIS
+40704,GENERAL MILLS INC,8-K,2025-05-27,edgar/data/40704/0001193125-25-127594.txt,2025,2,,GIS
+40704,GENERAL MILLS INC,8-K,2025-06-25,edgar/data/40704/0001193125-25-146132.txt,2025,2,,GIS
+47111,HERSHEY CO,8-K/A,2025-05-09,edgar/data/47111/0000047111-25-000052.txt,2025,2,,HSY
+47111,HERSHEY CO,8-K,2025-05-01,edgar/data/47111/0000047111-25-000040.txt,2025,2,,HSY
+47111,HERSHEY CO,8-K,2025-05-06,edgar/data/47111/0000047111-25-000047.txt,2025,2,,HSY
+47111,HERSHEY CO,8-K,2025-05-08,edgar/data/47111/0000047111-25-000050.txt,2025,2,,HSY
+55067,KELLANOVA,8-K,2025-05-01,edgar/data/55067/0001628280-25-021343.txt,2025,2,,K
+55067,KELLANOVA,8-K,2025-05-08,edgar/data/55067/0001193125-25-115440.txt,2025,2,,K
+55067,KELLANOVA,8-K,2025-06-25,edgar/data/55067/0001193125-25-146518.txt,2025,2,,K
+55067,KELLANOVA,8-K,2025-06-26,edgar/data/55067/0001193125-25-147478.txt,2025,2,,K
+55785,KIMBERLY CLARK CORP,8-K/A,2025-05-06,edgar/data/55785/0000055785-25-000045.txt,2025,2,,KMB
+55785,KIMBERLY CLARK CORP,8-K,2025-04-22,edgar/data/55785/0000055785-25-000034.txt,2025,2,,KMB
+55785,KIMBERLY CLARK CORP,8-K,2025-05-02,edgar/data/55785/0000055785-25-000041.txt,2025,2,,KMB
+55785,KIMBERLY CLARK CORP,8-K,2025-05-06,edgar/data/55785/0000055785-25-000044.txt,2025,2,,KMB
+55785,KIMBERLY CLARK CORP,8-K,2025-05-19,edgar/data/55785/0000055785-25-000051.txt,2025,2,,KMB
+55785,KIMBERLY CLARK CORP,8-K,2025-06-05,edgar/data/55785/0001104659-25-056662.txt,2025,2,,KMB
+63276,MATTEL INC /DE/,8-K,2025-05-05,edgar/data/63276/0001628280-25-022159.txt,2025,2,,MAT
+63276,MATTEL INC /DE/,8-K,2025-05-08,edgar/data/63276/0001193125-25-115986.txt,2025,2,,MAT
+63276,MATTEL INC /DE/,8-K,2025-05-30,edgar/data/63276/0001193125-25-132211.txt,2025,2,,MAT
+66740,3M CO,8-K,2025-04-22,edgar/data/66740/0000066740-25-000036.txt,2025,2,,MMM
+66740,3M CO,8-K,2025-05-12,edgar/data/66740/0000066740-25-000046.txt,2025,2,,MMM
+66740,3M CO,8-K,2025-05-14,edgar/data/66740/0000066740-25-000052.txt,2025,2,,MMM
+719955,WILLIAMS SONOMA INC,8-K,2025-05-22,edgar/data/719955/0001628280-25-027155.txt,2025,2,,WSM
+719955,WILLIAMS SONOMA INC,8-K,2025-06-13,edgar/data/719955/0001628280-25-031294.txt,2025,2,,WSM
+719955,WILLIAMS SONOMA INC,8-K,2025-06-27,edgar/data/719955/0001628280-25-033311.txt,2025,2,,WSM
+746598,BRADY CORP,8-K,2025-05-16,edgar/data/746598/0000746598-25-000028.txt,2025,2,,BRC
+77476,PEPSICO INC,8-K,2025-04-24,edgar/data/77476/0000077476-25-000022.txt,2025,2,,PEP
+77476,PEPSICO INC,8-K,2025-05-09,edgar/data/77476/0000077476-25-000025.txt,2025,2,,PEP
+77476,PEPSICO INC,8-K,2025-05-23,edgar/data/77476/0001104659-25-052457.txt,2025,2,,PEP
+788329,JOHNSON OUTDOORS INC,8-K,2025-05-02,edgar/data/788329/0001171843-25-002722.txt,2025,2,,JNJ
+788329,JOHNSON OUTDOORS INC,8-K,2025-06-27,edgar/data/788329/0001171843-25-004183.txt,2025,2,,JNJ
+80424,PROCTER & GAMBLE Co,8-K,2025-04-08,edgar/data/80424/0000080424-25-000025.txt,2025,2,,PG
+80424,PROCTER & GAMBLE Co,8-K,2025-04-24,edgar/data/80424/0000080424-25-000032.txt,2025,2,,PG
+80424,PROCTER & GAMBLE Co,8-K,2025-04-24,edgar/data/80424/0000080424-25-000035.txt,2025,2,,PG
+80424,PROCTER & GAMBLE Co,8-K,2025-05-01,edgar/data/80424/0001193125-25-110040.txt,2025,2,,PG
+80424,PROCTER & GAMBLE Co,8-K,2025-06-05,edgar/data/80424/0000080424-25-000050.txt,2025,2,,PG
+80424,PROCTER & GAMBLE Co,8-K,2025-06-09,edgar/data/80424/0000080424-25-000052.txt,2025,2,,PG
+814453,NEWELL BRANDS INC.,8-K,2025-04-30,edgar/data/814453/0000814453-25-000047.txt,2025,2,,NWL
+814453,NEWELL BRANDS INC.,8-K,2025-05-09,edgar/data/814453/0000950170-25-067443.txt,2025,2,,NWL
+814453,NEWELL BRANDS INC.,8-K,2025-05-14,edgar/data/814453/0000950170-25-071501.txt,2025,2,,NWL
+814453,NEWELL BRANDS INC.,8-K,2025-05-22,edgar/data/814453/0000950170-25-076419.txt,2025,2,,NWL
+833444,Johnson Controls International plc,8-K,2025-04-02,edgar/data/833444/0000833444-25-000021.txt,2025,2,,JNJ
+833444,Johnson Controls International plc,8-K,2025-05-05,edgar/data/833444/0000833444-25-000025.txt,2025,2,,JNJ
+833444,Johnson Controls International plc,8-K,2025-05-07,edgar/data/833444/0000833444-25-000029.txt,2025,2,,JNJ
+833444,Johnson Controls International plc,8-K,2025-05-12,edgar/data/833444/0000833444-25-000035.txt,2025,2,,JNJ
+916789,HELEN OF TROY LTD,8-K,2025-04-24,edgar/data/916789/0000916789-25-000010.txt,2025,2,,HELE
+916789,HELEN OF TROY LTD,8-K,2025-05-06,edgar/data/916789/0000916789-25-000015.txt,2025,2,,HELE
+916789,HELEN OF TROY LTD,8-K,2025-06-05,edgar/data/916789/0000916789-25-000029.txt,2025,2,,HELE
+1043951,CAMPBELL FUND TRUST,8-K,2025-07-02,edgar/data/1043951/0001140361-25-024598.txt,2025,3,,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2025-08-07,edgar/data/1043951/0001140361-25-029196.txt,2025,3,,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2025-09-03,edgar/data/1043951/0001140361-25-033776.txt,2025,3,,CPB
+1043951,CAMPBELL FUND TRUST,8-K,2025-09-16,edgar/data/1043951/0001140361-25-035132.txt,2025,3,,CPB
+106640,WHIRLPOOL CORP /DE/,8-K,2025-07-28,edgar/data/106640/0000106640-25-000112.txt,2025,3,,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2025-08-19,edgar/data/106640/0000106640-25-000125.txt,2025,3,,WHR
+106640,WHIRLPOOL CORP /DE/,8-K,2025-08-19,edgar/data/106640/0000106640-25-000127.txt,2025,3,,WHR
+1103982,"Mondelez International, Inc.",8-K,2025-07-29,edgar/data/1103982/0001103982-25-000187.txt,2025,3,,MDLZ
+1528849,RH,8-K,2025-07-02,edgar/data/1528849/0001558370-25-009058.txt,2025,3,,RH
+1528849,RH,8-K,2025-08-06,edgar/data/1528849/0001558370-25-010517.txt,2025,3,,RH
+1528849,RH,8-K,2025-09-11,edgar/data/1528849/0001558370-25-012006.txt,2025,3,,RH
+1616707,Wayfair Inc.,8-K,2025-08-04,edgar/data/1616707/0001616707-25-000068.txt,2025,3,,W
+1616707,Wayfair Inc.,8-K,2025-08-21,edgar/data/1616707/0001616707-25-000078.txt,2025,3,,W
+1616707,Wayfair Inc.,8-K,2025-09-19,edgar/data/1616707/0001616707-25-000091.txt,2025,3,,W
+1637459,Kraft Heinz Co,8-K,2025-07-08,edgar/data/1637459/0001193125-25-156609.txt,2025,3,,KHC
+1637459,Kraft Heinz Co,8-K,2025-07-09,edgar/data/1637459/0001637459-25-000139.txt,2025,3,,KHC
+1637459,Kraft Heinz Co,8-K,2025-07-30,edgar/data/1637459/0001637459-25-000149.txt,2025,3,,KHC
+1637459,Kraft Heinz Co,8-K,2025-09-02,edgar/data/1637459/0000950142-25-002336.txt,2025,3,,KHC
+16732,CAMPBELL'S Co,8-K,2025-07-18,edgar/data/16732/0000016732-25-000101.txt,2025,3,,CPB
+16732,CAMPBELL'S Co,8-K,2025-08-05,edgar/data/16732/0001193125-25-173561.txt,2025,3,,CPB
+16732,CAMPBELL'S Co,8-K,2025-09-03,edgar/data/16732/0000016732-25-000105.txt,2025,3,,CPB
+16732,CAMPBELL'S Co,8-K,2025-09-05,edgar/data/16732/0000016732-25-000108.txt,2025,3,,CPB
+1737924,Nuveen Churchill Direct Lending Corp.,8-K,2025-08-06,edgar/data/1737924/0001628280-25-038084.txt,2025,3,,CHD
+1786431,Reynolds Consumer Products Inc.,8-K,2025-07-25,edgar/data/1786431/0001628280-25-036054.txt,2025,3,,REYN
+1786431,Reynolds Consumer Products Inc.,8-K,2025-07-30,edgar/data/1786431/0001628280-25-036549.txt,2025,3,,REYN
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-07-24,edgar/data/1911066/0001911066-25-000013.txt,2025,3,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-07-30,edgar/data/1911066/0001628280-25-036597.txt,2025,3,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-08-05,edgar/data/1911066/0001628280-25-037878.txt,2025,3,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-08-28,edgar/data/1911066/0001911066-25-000027.txt,2025,3,,CHD
+1911066,Nuveen Churchill Private Capital Income Fund,8-K,2025-09-30,edgar/data/1911066/0001911066-25-000030.txt,2025,3,,CHD
+200406,JOHNSON & JOHNSON,8-K,2025-07-16,edgar/data/200406/0000200406-25-000170.txt,2025,3,,JNJ
+200406,JOHNSON & JOHNSON,8-K,2025-09-09,edgar/data/200406/0000200406-25-000190.txt,2025,3,,JNJ
+2006291,Churchill Capital Corp IX/Cayman,8-K,2025-08-04,edgar/data/2006291/0001193125-25-172597.txt,2025,3,,CHD
+2007825,Churchill Capital Corp X/Cayman,8-K,2025-07-02,edgar/data/2007825/0001193125-25-155005.txt,2025,3,,CHD
+2007825,Churchill Capital Corp X/Cayman,8-K,2025-08-04,edgar/data/2007825/0001193125-25-172598.txt,2025,3,,CHD
+2007825,Churchill Capital Corp X/Cayman,8-K,2025-09-08,edgar/data/2007825/0001193125-25-197773.txt,2025,3,,CHD
+20212,Churchill Downs Inc,8-K,2025-07-14,edgar/data/20212/0000020212-25-000092.txt,2025,3,,CHD
+20212,Churchill Downs Inc,8-K,2025-07-23,edgar/data/20212/0000020212-25-000101.txt,2025,3,,CHD
+20212,Churchill Downs Inc,8-K,2025-07-23,edgar/data/20212/0000020212-25-000102.txt,2025,3,,CHD
+20212,Churchill Downs Inc,8-K,2025-08-27,edgar/data/20212/0000020212-25-000106.txt,2025,3,,CHD
+2072436,"CenterPoint Energy Restoration Bond Co II, LLC",8-K,2025-09-11,edgar/data/2072436/0001410578-25-002096.txt,2025,3,,RH
+2072436,"CenterPoint Energy Restoration Bond Co II, LLC",8-K,2025-09-17,edgar/data/2072436/0001104659-25-090869.txt,2025,3,,RH
+21076,CLOROX CO /DE/,8-K,2025-07-31,edgar/data/21076/0000021076-25-000035.txt,2025,3,,CLX
+21344,COCA COLA CO,8-K,2025-07-22,edgar/data/21344/0000021344-25-000054.txt,2025,3,,KO
+21665,COLGATE PALMOLIVE CO,8-K,2025-08-01,edgar/data/21665/0000021665-25-000040.txt,2025,3,,CL
+23217,CONAGRA BRANDS INC.,8-K/A,2025-09-23,edgar/data/23217/0000023217-25-000077.txt,2025,3,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2025-07-10,edgar/data/23217/0000023217-25-000039.txt,2025,3,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2025-07-22,edgar/data/23217/0000023217-25-000045.txt,2025,3,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2025-09-19,edgar/data/23217/0000023217-25-000067.txt,2025,3,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2025-09-22,edgar/data/23217/0000023217-25-000073.txt,2025,3,,CAG
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2025-07-18,edgar/data/313927/0001193125-25-161241.txt,2025,3,,CHD
+313927,CHURCH & DWIGHT CO INC /DE/,8-K,2025-08-01,edgar/data/313927/0000950170-25-101104.txt,2025,3,,CHD
+40704,GENERAL MILLS INC,8-K,2025-09-17,edgar/data/40704/0001193125-25-205477.txt,2025,3,,GIS
+46640,Kraft Heinz Foods Co,8-K,2025-07-08,edgar/data/46640/0001193125-25-156609.txt,2025,3,,KHC
+47111,HERSHEY CO,8-K,2025-07-08,edgar/data/47111/0000047111-25-000095.txt,2025,3,,HSY
+47111,HERSHEY CO,8-K,2025-07-30,edgar/data/47111/0000047111-25-000109.txt,2025,3,,HSY
+47111,HERSHEY CO,8-K,2025-08-04,edgar/data/47111/0000047111-25-000117.txt,2025,3,,HSY
+47111,HERSHEY CO,8-K,2025-08-18,edgar/data/47111/0000047111-25-000119.txt,2025,3,,HSY
+47111,HERSHEY CO,8-K,2025-08-27,edgar/data/47111/0000047111-25-000124.txt,2025,3,,HSY
+55067,KELLANOVA,8-K,2025-07-31,edgar/data/55067/0001628280-25-036851.txt,2025,3,,K
+55785,KIMBERLY CLARK CORP,8-K,2025-07-25,edgar/data/55785/0000055785-25-000071.txt,2025,3,,KMB
+55785,KIMBERLY CLARK CORP,8-K,2025-08-01,edgar/data/55785/0000055785-25-000076.txt,2025,3,,KMB
+63276,MATTEL INC /DE/,8-K,2025-07-23,edgar/data/63276/0001628280-25-035714.txt,2025,3,,MAT
+66740,3M CO,8-K,2025-07-18,edgar/data/66740/0000066740-25-000061.txt,2025,3,,MMM
+66740,3M CO,8-K,2025-08-15,edgar/data/66740/0000066740-25-000068.txt,2025,3,,MMM
+719955,WILLIAMS SONOMA INC,8-K,2025-08-27,edgar/data/719955/0000719955-25-000006.txt,2025,3,,WSM
+746598,BRADY CORP,8-K,2025-09-04,edgar/data/746598/0000746598-25-000044.txt,2025,3,,BRC
+746598,BRADY CORP,8-K,2025-09-19,edgar/data/746598/0000746598-25-000052.txt,2025,3,,BRC
+77476,PEPSICO INC,8-K,2025-07-17,edgar/data/77476/0000077476-25-000042.txt,2025,3,,PEP
+77476,PEPSICO INC,8-K,2025-07-17,edgar/data/77476/0000077476-25-000046.txt,2025,3,,PEP
+77476,PEPSICO INC,8-K,2025-07-23,edgar/data/77476/0001104659-25-070029.txt,2025,3,,PEP
+77476,PEPSICO INC,8-K,2025-07-28,edgar/data/77476/0001104659-25-071182.txt,2025,3,,PEP
+788329,JOHNSON OUTDOORS INC,8-K,2025-08-01,edgar/data/788329/0001171843-25-004947.txt,2025,3,,JNJ
+788329,JOHNSON OUTDOORS INC,8-K,2025-09-26,edgar/data/788329/0001171843-25-006088.txt,2025,3,,JNJ
+80424,PROCTER & GAMBLE Co,8-K,2025-07-08,edgar/data/80424/0000080424-25-000057.txt,2025,3,,PG
+80424,PROCTER & GAMBLE Co,8-K,2025-07-28,edgar/data/80424/0000080424-25-000061.txt,2025,3,,PG
+80424,PROCTER & GAMBLE Co,8-K,2025-07-29,edgar/data/80424/0000080424-25-000067.txt,2025,3,,PG
+80424,PROCTER & GAMBLE Co,8-K,2025-07-29,edgar/data/80424/0000080424-25-000069.txt,2025,3,,PG
+80424,PROCTER & GAMBLE Co,8-K,2025-08-14,edgar/data/80424/0000080424-25-000111.txt,2025,3,,PG
+814453,NEWELL BRANDS INC.,8-K,2025-08-01,edgar/data/814453/0000814453-25-000095.txt,2025,3,,NWL
+833444,Johnson Controls International plc,8-K,2025-07-29,edgar/data/833444/0000833444-25-000055.txt,2025,3,,JNJ
+833444,Johnson Controls International plc,8-K,2025-08-01,edgar/data/833444/0000833444-25-000058.txt,2025,3,,JNJ
+833444,Johnson Controls International plc,8-K,2025-08-08,edgar/data/833444/0000833444-25-000066.txt,2025,3,,JNJ
+833444,Johnson Controls International plc,8-K,2025-09-24,edgar/data/833444/0000833444-25-000076.txt,2025,3,,JNJ
+916789,HELEN OF TROY LTD,8-K,2025-07-10,edgar/data/916789/0000916789-25-000038.txt,2025,3,,HELE
+916789,HELEN OF TROY LTD,8-K,2025-08-14,edgar/data/916789/0000916789-25-000051.txt,2025,3,,HELE
+916789,HELEN OF TROY LTD,8-K,2025-08-21,edgar/data/916789/0000916789-25-000054.txt,2025,3,,HELE
+1043951,CAMPBELL FUND TRUST,8-K,2025-10-06,edgar/data/1043951/0001140361-25-037345.txt,2025,4,,CPB
+16732,CAMPBELL'S Co,8-K,2025-10-07,edgar/data/16732/0000016732-25-000115.txt,2025,4,,CPB
+200406,JOHNSON & JOHNSON,8-K,2025-10-14,edgar/data/200406/0000200406-25-000201.txt,2025,4,,JNJ
+21344,COCA COLA CO,8-K,2025-10-16,edgar/data/21344/0001628280-25-045223.txt,2025,4,,KO
+21344,COCA COLA CO,8-K,2025-10-21,edgar/data/21344/0001628280-25-045577.txt,2025,4,,KO
+23217,CONAGRA BRANDS INC.,8-K,2025-10-01,edgar/data/23217/0000023217-25-000083.txt,2025,4,,CAG
+23217,CONAGRA BRANDS INC.,8-K,2025-10-06,edgar/data/23217/0000023217-25-000089.txt,2025,4,,CAG
+40704,GENERAL MILLS INC,8-K,2025-10-01,edgar/data/40704/0001193125-25-225852.txt,2025,4,,GIS
+40704,GENERAL MILLS INC,8-K,2025-10-03,edgar/data/40704/0001193125-25-230114.txt,2025,4,,GIS
+47111,HERSHEY CO,8-K,2025-10-21,edgar/data/47111/0001628280-25-045714.txt,2025,4,,HSY
+63276,MATTEL INC /DE/,8-K,2025-10-21,edgar/data/63276/0001628280-25-045690.txt,2025,4,,MAT
+66740,3M CO,8-K,2025-10-21,edgar/data/66740/0000066740-25-000086.txt,2025,4,,MMM
+77476,PEPSICO INC,8-K,2025-10-09,edgar/data/77476/0000077476-25-000055.txt,2025,4,,PEP
+80424,PROCTER & GAMBLE Co,8-K,2025-10-14,edgar/data/80424/0000080424-25-000217.txt,2025,4,,PG
+80424,PROCTER & GAMBLE Co,8-K,2025-10-16,edgar/data/80424/0000080424-25-000235.txt,2025,4,,PG
+916789,HELEN OF TROY LTD,8-K,2025-10-09,edgar/data/916789/0000916789-25-000096.txt,2025,4,,HELE

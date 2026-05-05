@@ -1,0 +1,367 @@
+ticker,company,date,event_type,titles,executive,form,filing_url
+CAG,Conagra Brands,2023-06-22,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/23217/000143774923018119/cag20230622_8k.htm
+CAG,Conagra Brands,2023-07-20,departure,PRESIDENT | CHIEF EXECUTIVE OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/23217/000143774923020337/cag20230719_8k.htm
+CAG,Conagra Brands,2023-07-31,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/23217/000143774923021179/cag20230727_8k.htm
+CAG,Conagra Brands,2023-09-19,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/23217/000143774923026333/cag20230918_8k.htm
+CAG,Conagra Brands,2024-05-01,appointment,PRESIDENT | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/23217/000155837024006398/tmb-20240425x8k.htm
+CAG,Conagra Brands,2025-06-18,transition,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/23217/000002321725000029/tmb-20250617x8k.htm
+CAG,Conagra Brands,2025-09-19,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/23217/000002321725000067/tmb-20250917x8k.htm
+CAG,Conagra Brands,2025-10-06,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | CFO | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/23217/000002321725000089/tmb-20251002x8k.htm
+CAG,Conagra Brands,2026-02-18,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/23217/000002321726000005/tmb-20260218x8k.htm
+CAG,Conagra Brands,2026-04-13,departure,PRESIDENT | CHIEF EXECUTIVE OFFICER | CHIEF OPERATING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/23217/000002321726000013/tmb-20260408x8k.htm
+CHD,Church & Dwight,2021-08-17,departure,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/313927/000156459021044936/chd-8k_20210813.htm
+CL,Colgate-Palmolive,2017-09-28,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000093041317003416/c89423_8k.htm
+CL,Colgate-Palmolive,2018-05-04,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000115752318001000/a51801460.htm
+CL,Colgate-Palmolive,2018-06-18,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000115752318001300/a51823994.htm
+CL,Colgate-Palmolive,2018-07-11,appointment,CHIEF OPERATING OFFICER | COO | EXECUTIVE VICE PRESIDENT | PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000115752318001404/a51834540.htm
+CL,Colgate-Palmolive,2018-09-18,transition,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000093041318002885/c92027_8k.htm
+CL,Colgate-Palmolive,2019-02-11,appointment,COO | CHIEF EXECUTIVE OFFICER | CHIEF OPERATING OFFICER | PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000115752319000287/a51938699.htm
+CL,Colgate-Palmolive,2019-02-21,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000115752319000415/a51944203.htm
+CL,Colgate-Palmolive,2019-05-15,appointment,COO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000093041319001684/c93639_8k.htm
+CL,Colgate-Palmolive,2019-06-24,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000093041319001911/c93846_8k.htm
+CL,Colgate-Palmolive,2020-03-11,appointment,COO | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER | PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000115752320000334/a52187721.htm
+CL,Colgate-Palmolive,2020-10-30,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000115752320001399/a52317130.htm
+CL,Colgate-Palmolive,2021-03-11,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000115752321000329/a52394756.htm
+CL,Colgate-Palmolive,2022-04-11,transition,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000002166522000006/cl-20220408.htm
+CL,Colgate-Palmolive,2022-06-13,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000002166522000016/cl-20220613.htm
+CL,Colgate-Palmolive,2023-01-30,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000115752323000114/a53293060.htm
+CL,Colgate-Palmolive,2023-08-18,departure,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000115752323001351/a53541708.htm
+CL,Colgate-Palmolive,2023-09-15,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000002166523000034/cl-20230915.htm
+CL,Colgate-Palmolive,2024-02-15,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000115752324000262/a53897051.htm
+CL,Colgate-Palmolive,2025-05-29,appointment,CHIEF OPERATING OFFICER | CEO | EXECUTIVE VICE PRESIDENT | PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000002166525000025/cl-20250529.htm
+CL,Colgate-Palmolive,2026-03-12,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000002166526000008/cl-20260312.htm
+CL,Colgate-Palmolive,2026-04-09,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21665/000002166526000015/cl-20260408.htm
+CLX,Clorox,2017-01-27,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677417000284/clorox3203751-8k.htm
+CLX,Clorox,2017-03-16,transition,PRESIDENT | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677417000859/clorox3228461-8k.htm
+CLX,Clorox,2017-11-01,transition,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677417003063/clorox3332791-8k.htm
+CLX,Clorox,2018-01-22,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677418000173/clorox3371771-8k.htm
+CLX,Clorox,2018-03-30,departure,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K/A,https://www.sec.gov/Archives/edgar/data/21076/000120677418001044/clorox3400611-8ka.htm
+CLX,Clorox,2018-03-30,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677418001043/clorox3400611-8k.htm
+CLX,Clorox,2018-07-26,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677418002200/clorox3452241-8k.htm
+CLX,Clorox,2018-12-10,departure,PRESIDENT | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677418003380/clorox3512521-8k.htm
+CLX,Clorox,2020-02-14,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677420000462/clorox3722281-8k.htm
+CLX,Clorox,2020-04-10,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677420001139/clorox3748411-8k.htm
+CLX,Clorox,2020-05-05,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677420001519/clorox3757311-8k.htm
+CLX,Clorox,2020-08-03,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677420002259/clorox3790291-8k.htm
+CLX,Clorox,2020-08-12,appointment,PRESIDENT | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677420002408/clorox3795161-8k.htm
+CLX,Clorox,2020-11-19,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677420003081/clorox3832601-8k.htm
+CLX,Clorox,2021-01-28,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677421000242/clorox3863281-8k.htm
+CLX,Clorox,2021-04-08,transition,PRESIDENT | CHIEF ACCOUNTING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677421001046/clorox3894571-8k.htm
+CLX,Clorox,2021-11-17,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677421002755/clorox3984651-8k.htm
+CLX,Clorox,2022-03-02,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677422000581/clx4029821-8k.htm
+CLX,Clorox,2022-05-18,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677422001423/clx4063361-8k.htm
+CLX,Clorox,2023-07-26,departure,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677423000820/clx4224661-8k.htm
+CLX,Clorox,2025-01-28,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677425000035/clx4432551-8k.htm
+CLX,Clorox,2025-05-12,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677425000357/clx4481611-8k.htm
+CLX,Clorox,2025-10-30,transition,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21076/000120677425000735/clx4554021-8k.htm
+CPB,Campbell Soup,2017-02-09,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/16732/000001673217000017/osheaform8-k.htm
+CPB,Campbell Soup,2017-03-23,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/16732/000001673217000027/form8-kxfabiolaappointment.htm
+CPB,Campbell Soup,2017-05-11,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/16732/000001673217000034/form8-kxpolomskicaoappoint.htm
+CPB,Campbell Soup,2017-09-26,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/16732/000001673217000056/form8-kxtraceyttravis.htm
+CPB,Campbell Soup,2018-03-22,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/16732/000001673218000032/form8-k.htm
+CPB,Campbell Soup,2018-04-05,appointment,PRESIDENT | CHIEF OPERATING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/16732/000001673218000036/lmorgann.htm
+CPB,Campbell Soup,2018-05-03,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/16732/000001673218000041/maform8-k.htm
+CPB,Campbell Soup,2018-05-18,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/16732/000001673218000047/dm_kmform8-k.htm
+CPB,Campbell Soup,2018-11-26,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/16732/000095015918000521/campbell8k.htm
+CPB,Campbell Soup,2021-01-28,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/16732/000001673221000027/cpb-20210128.htm
+CPB,Campbell Soup,2022-12-01,departure,COO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/16732/000001673222000150/cpb-20221130.htm
+CPB,Campbell Soup,2023-01-25,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/16732/000001673223000026/cpb-20230125.htm
+CPB,Campbell Soup,2024-12-03,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/16732/000001673224000198/cpb-20241201.htm
+GIS,General Mills,2017-05-03,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/40704/000129993317000448/htm_54888.htm
+GIS,General Mills,2017-05-08,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/40704/000129993317000459/htm_54899.htm
+GIS,General Mills,2017-06-22,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/40704/000129993317000636/htm_55070.htm
+GIS,General Mills,2017-11-08,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/40704/000129993317001135/htm_55545.htm
+GIS,General Mills,2017-12-29,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/40704/000129993317001291/htm_55704.htm
+GIS,General Mills,2018-06-27,transition,PRESIDENT,Unknown,8-K/A,https://www.sec.gov/Archives/edgar/data/40704/000129993318000539/htm_56264.htm
+GIS,General Mills,2019-04-26,transition,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/40704/000156459019013359/gis-8k_20190423.htm
+GIS,General Mills,2020-01-29,transition,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/40704/000156459020002456/gis-8k_20200127.htm
+GIS,General Mills,2021-07-22,transition,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/40704/000156459021037515/gis-8k_20210716.htm
+HELE,Helen of Troy,2017-03-07,appointment,CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000110465917014901/a17-7763_18k.htm
+HELE,Helen of Troy,2017-08-17,departure,CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000110465917052396/a17-20689_18k.htm
+HELE,Helen of Troy,2018-01-26,transition,CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000110465918004109/a18-3839_18k.htm
+HELE,Helen of Troy,2018-08-27,departure,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000110465918053673/a18-21224_18k.htm
+HELE,Helen of Troy,2018-11-07,appointment,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000091678918000011/a8k-1172018.htm
+HELE,Helen of Troy,2020-03-30,appointment,PRINCIPAL FINANCIAL OFFICER | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000091678920000017/lineofcredit_8k.htm
+HELE,Helen of Troy,2020-04-28,transition,PRINCIPAL FINANCIAL OFFICER | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000091678920000019/fy21_q1xdeparturex8k.htm
+HELE,Helen of Troy,2020-10-13,transition,PRINCIPAL FINANCIAL OFFICER | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000091678920000070/hele-20201006.htm
+HELE,Helen of Troy,2020-12-10,departure,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000091678920000085/hele-20201204.htm
+HELE,Helen of Troy,2021-07-08,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000091678921000056/hele-20210708.htm
+HELE,Helen of Troy,2022-03-03,departure,CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000091678922000019/hele-20220228.htm
+HELE,Helen of Troy,2022-04-27,appointment,PRESIDENT | CHIEF OPERATING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000091678922000023/hele-20220427.htm
+HELE,Helen of Troy,2022-05-03,appointment,PRINCIPAL FINANCIAL OFFICER | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000091678922000030/hele-20220503.htm
+HELE,Helen of Troy,2022-05-20,departure,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000091678922000035/hele-20220517.htm
+HELE,Helen of Troy,2023-03-08,departure,PRINCIPAL FINANCIAL OFFICER | PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000091678923000009/hele-20230302.htm
+HELE,Helen of Troy,2023-10-04,departure,PRINCIPAL FINANCIAL OFFICER | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000091678923000044/hele-20231004.htm
+HELE,Helen of Troy,2024-03-05,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/916789/000091678924000010/hele-20240228.htm
+HSY,Hershey,2017-02-24,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K/A,https://www.sec.gov/Archives/edgar/data/47111/000004711117000011/a8-ka_02242017eventdate121.htm
+HSY,Hershey,2017-05-05,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711117000024/form8-k_05022017.htm
+HSY,Hershey,2017-12-06,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711117000043/a8-k_12052017schoppert.htm
+HSY,Hershey,2018-01-24,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711118000004/a8-k_01182018turner.htm
+HSY,Hershey,2018-02-22,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711118000009/a8-k_02202018bilbrey.htm
+HSY,Hershey,2018-08-16,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711118000037/a8-k08162018palannouncement.htm
+HSY,Hershey,2019-04-18,appointment,PRINCIPAL FINANCIAL OFFICER | PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711119000018/a8-k_04182019.htm
+HSY,Hershey,2019-11-07,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF ACCOUNTING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711119000068/hsy-20191101.htm
+HSY,Hershey,2019-12-18,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711119000071/hsy-20191218.htm
+HSY,Hershey,2020-09-01,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711120000048/hsy-20200829.htm
+HSY,Hershey,2020-12-08,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF ACCOUNTING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711120000056/hsy-20201208.htm
+HSY,Hershey,2021-02-26,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF ACCOUNTING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711121000012/hsy-20210223.htm
+HSY,Hershey,2023-02-06,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711123000006/hsy-20230202.htm
+HSY,Hershey,2024-09-05,departure,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711124000049/hsy-20240829.htm
+HSY,Hershey,2025-01-13,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711125000004/hsy-20250110.htm
+HSY,Hershey,2025-01-15,departure,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711125000008/hsy-20250109.htm
+HSY,Hershey,2025-02-25,transition,PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711125000019/hsy-20250219.htm
+HSY,Hershey,2025-03-07,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711125000022/hsy-20250307.htm
+HSY,Hershey,2025-07-08,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | CEO | CHIEF OPERATING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711125000095/hsy-20250706.htm
+HSY,Hershey,2025-08-04,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711125000117/hsy-20250730.htm
+HSY,Hershey,2025-08-27,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000004711125000124/hsy-20250821.htm
+HSY,Hershey,2026-04-14,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/47111/000162828026025076/hsy-20260414.htm
+JNJ,Johnson & Johnson,2018-03-20,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040618000012/a20180320form8-kcfo.htm
+JNJ,Johnson & Johnson,2018-06-22,appointment,COO | CHIEF FINANCIAL OFFICER | PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040618000026/a20180621form8-kecchanges.htm
+JNJ,Johnson & Johnson,2019-10-07,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | CFO | CHIEF ACCOUNTING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040619000059/a20191007cover.htm
+JNJ,Johnson & Johnson,2019-12-05,appointment,CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040619000069/a20191205form8-k.htm
+JNJ,Johnson & Johnson,2020-12-03,transition,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040620000061/jnj-20201203.htm
+JNJ,Johnson & Johnson,2021-08-20,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040621000061/jnj-20210819.htm
+JNJ,Johnson & Johnson,2021-10-12,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040621000063/jnj-20211012.htm
+JNJ,Johnson & Johnson,2022-01-06,transition,CHIEF EXECUTIVE OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040622000004/jnj-20220106.htm
+JNJ,Johnson & Johnson,2022-02-16,appointment,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040622000017/jnj-20220215.htm
+JNJ,Johnson & Johnson,2022-04-29,appointment,COO | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040622000047/jnj-20220428.htm
+JNJ,Johnson & Johnson,2022-12-01,transition,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040622000089/jnj-20221130.htm
+JNJ,Johnson & Johnson,2023-02-14,appointment,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040623000008/jnj-20230214.htm
+JNJ,Johnson & Johnson,2023-02-15,appointment,PRESIDENT,Unknown,8-K/A,https://www.sec.gov/Archives/edgar/data/200406/000020040623000011/jnj-20230214.htm
+JNJ,Johnson & Johnson,2023-04-03,departure,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040623000032/jnj-20230331.htm
+JNJ,Johnson & Johnson,2023-05-01,appointment,COO | CHIEF EXECUTIVE OFFICER | PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040623000059/jnj-20230427.htm
+JNJ,Johnson & Johnson,2023-10-23,departure,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040623000096/jnj-20231020.htm
+JNJ,Johnson & Johnson,2023-11-27,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040623000105/jnj-20231121.htm
+JNJ,Johnson & Johnson,2023-12-05,appointment,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040623000115/jnj-20231130.htm
+JNJ,Johnson & Johnson,2024-08-26,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040624000079/jnj-20240826.htm
+JNJ,Johnson & Johnson,2024-09-10,departure,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040624000081/jnj-20240910.htm
+JNJ,Johnson & Johnson,2025-04-30,appointment,COO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040625000141/jnj-20250424.htm
+JNJ,Johnson & Johnson,2025-06-10,appointment,PRESIDENT | CHIEF OPERATING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040625000152/jnj-20250610.htm
+JNJ,Johnson & Johnson,2025-09-09,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | CHIEF OPERATING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/200406/000020040625000190/jnj-20250908.htm
+KHC,Kraft Heinz,2017-10-27,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745917000108/form8-koctober.htm
+KHC,Kraft Heinz,2017-11-22,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745917000121/form8knov.htm
+KHC,Kraft Heinz,2018-02-23,departure,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745918000020/buffettvandammeform8-k.htm
+KHC,Kraft Heinz,2018-06-06,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745918000101/a2018controller.htm
+KHC,Kraft Heinz,2018-11-06,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745918000127/form8-kxcamera502701and901.htm
+KHC,Kraft Heinz,2019-01-04,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745919000004/january12019item502form8-k.htm
+KHC,Kraft Heinz,2019-02-08,transition,CHIEF FINANCIAL OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT | PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745919000007/item502form8-k.htm
+KHC,Kraft Heinz,2019-04-18,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745919000027/form8-kitem502.htm
+KHC,Kraft Heinz,2019-04-22,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745919000029/form8-kitem502.htm
+KHC,Kraft Heinz,2019-06-07,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745919000050/a6719form8-k.htm
+KHC,Kraft Heinz,2019-06-25,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745919000053/khc-form8xkxorganizational.htm
+KHC,Kraft Heinz,2019-09-19,transition,COO | PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745919000080/form8-k91819.htm
+KHC,Kraft Heinz,2020-01-06,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745920000004/form8-k162020.htm
+KHC,Kraft Heinz,2020-01-08,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745920000007/form8-k1820.htm
+KHC,Kraft Heinz,2020-01-24,appointment,COO | CHIEF EXECUTIVE OFFICER | PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745920000014/form8-k1242020.htm
+KHC,Kraft Heinz,2020-03-05,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745920000042/form8-k322020.htm
+KHC,Kraft Heinz,2020-10-23,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745920000147/khc-20201023.htm
+KHC,Kraft Heinz,2021-03-03,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745921000026/khc-20210225.htm
+KHC,Kraft Heinz,2021-03-12,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745921000039/khc-20210308.htm
+KHC,Kraft Heinz,2022-01-21,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745922000002/khc-20220119.htm
+KHC,Kraft Heinz,2022-02-04,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745922000012/khc-20220201.htm
+KHC,Kraft Heinz,2022-02-18,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745922000021/khc-20220215.htm
+KHC,Kraft Heinz,2022-07-05,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745922000152/khc-20220629.htm
+KHC,Kraft Heinz,2022-11-07,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745922000196/khc-20221103.htm
+KHC,Kraft Heinz,2022-12-09,appointment,CHIEF EXECUTIVE OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745922000204/khc-20221206.htm
+KHC,Kraft Heinz,2023-11-01,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745923000141/khc-20231101.htm
+KHC,Kraft Heinz,2024-02-22,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745924000024/khc-20240221.htm
+KHC,Kraft Heinz,2024-02-28,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745924000029/khc-20240222.htm
+KHC,Kraft Heinz,2024-08-05,departure,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745924000131/khc-20240731.htm
+KHC,Kraft Heinz,2024-10-28,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745924000135/khc-20241024.htm
+KHC,Kraft Heinz,2024-11-15,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745924000150/khc-20241115.htm
+KHC,Kraft Heinz,2025-05-20,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745925000102/khc-20250519.htm
+KHC,Kraft Heinz,2025-06-17,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745925000107/khc-20250612.htm
+KHC,Kraft Heinz,2025-07-09,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745925000139/khc-20250709.htm
+KHC,Kraft Heinz,2025-09-02,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000095014225002336/eh250673203_8k.htm
+KHC,Kraft Heinz,2025-10-22,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745925000160/khc-20251022.htm
+KHC,Kraft Heinz,2026-02-18,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1637459/000163745926000013/khc-20260211.htm
+KO,Coca-Cola,2017-02-15,transition,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278117000075/e17068_ko-8k.htm
+KO,Coca-Cola,2017-03-24,departure,CHIEF FINANCIAL OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT | PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278117000158/e17154_ko-8k.htm
+KO,Coca-Cola,2017-04-28,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER | CHIEF OPERATING OFFICER | CHIEF ACCOUNTING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278117000271/e17241_ko-8k.htm
+KO,Coca-Cola,2017-12-08,departure,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278117000649/e17529_ko-8k.htm
+KO,Coca-Cola,2018-02-20,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278118000101/e18063_ko-8k.htm
+KO,Coca-Cola,2018-10-18,appointment,CHIEF FINANCIAL OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT | PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278118000440/e18397_ko-8k.htm
+KO,Coca-Cola,2018-12-06,departure,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278118000517/e18450_ko-8k.htm
+KO,Coca-Cola,2019-02-21,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278119000063/e19082_ko-8k.htm
+KO,Coca-Cola,2020-01-14,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278120000076/e20034_ko-8k.htm
+KO,Coca-Cola,2020-08-24,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278120000461/e20471_ko-8k.htm
+KO,Coca-Cola,2020-08-28,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278120000463/e20478_ko-8k.htm
+KO,Coca-Cola,2020-12-10,departure,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278120000603/e20625_ko-8k.htm
+KO,Coca-Cola,2021-02-22,appointment,CHIEF FINANCIAL OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT | PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278121000039/e21063_ko-8k.htm
+KO,Coca-Cola,2021-04-21,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278121000235/e21249_ko-8k.htm
+KO,Coca-Cola,2021-08-24,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278121000687/e21534_ko-8k.htm
+KO,Coca-Cola,2021-12-20,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278121000856/e21666_ko-8k.htm
+KO,Coca-Cola,2022-02-16,transition,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278122000167/e22073_ko-8k.htm
+KO,Coca-Cola,2022-03-04,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278122000236/e22121_ko-8k.htm
+KO,Coca-Cola,2022-04-27,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278122000366/e22265_ko-8k.htm
+KO,Coca-Cola,2022-07-21,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278122000509/e22375_ko-8k.htm
+KO,Coca-Cola,2022-08-23,departure,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278122000543/e22401_ko-8k.htm
+KO,Coca-Cola,2023-07-19,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000002134423000041/ko-20230719.htm
+KO,Coca-Cola,2024-05-02,appointment,PRESIDENT | CHIEF ACCOUNTING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278124000261/e24215_ko-8k.htm
+KO,Coca-Cola,2024-07-23,transition,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000002134424000040/ko-20240719.htm
+KO,Coca-Cola,2024-08-21,departure,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000002134424000047/ko-20240821.htm
+KO,Coca-Cola,2024-10-17,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000002134424000051/ko-20241017.htm
+KO,Coca-Cola,2024-12-11,appointment,PRESIDENT | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278124000626/e24365_ko-8k.htm
+KO,Coca-Cola,2024-12-16,transition,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278124000634/e24475_ko-8k.htm
+KO,Coca-Cola,2025-10-16,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000162828025045223/ko-20251016.htm
+KO,Coca-Cola,2025-12-10,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278125000454/e25454_ko-8k.htm
+KO,Coca-Cola,2026-01-14,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000155278126000017/e26024_ko-8k.htm
+KO,Coca-Cola,2026-02-20,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/21344/000162828026010052/ko-20260219.htm
+MAT,Mattel,2018-05-07,transition,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/63276/000119312518154460/d583330d8k.htm
+MAT,Mattel,2020-04-06,departure,CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT | PRESIDENT | CFO | CHIEF EXECUTIVE OFFICER,Unknown,8-K/A,https://www.sec.gov/Archives/edgar/data/63276/000119312520099566/d913953d8ka.htm
+MAT,Mattel,2020-04-20,departure,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/63276/000119312520112226/d915293d8k.htm
+MAT,Mattel,2023-07-26,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/63276/000162828023025710/mat-20230721.htm
+MAT,Mattel,2024-02-07,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/63276/000162828024003691/mat-20240201.htm
+MAT,Mattel,2024-06-04,appointment,COO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/63276/000162828024026557/mat-20240529.htm
+MAT,Mattel,2024-09-13,transition,CHIEF EXECUTIVE OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/63276/000162828024040348/mat-20240911.htm
+MDLZ,Mondelez,2017-04-18,unknown,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1103982/000119312517126782/d380153d8k.htm
+MDLZ,Mondelez,2023-07-20,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1103982/000110398223000034/mdlz-20230720.htm
+MDLZ,Mondelez,2024-02-02,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1103982/000110398224000016/mdlz-20240201.htm
+MDLZ,Mondelez,2024-05-22,departure,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1103982/000110398224000073/mdlz-20240522.htm
+MDLZ,Mondelez,2024-12-03,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1103982/000119312524269487/d899357d8k.htm
+MDLZ,Mondelez,2025-01-27,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT | CHIEF ACCOUNTING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1103982/000110398225000012/mdlz-20250124.htm
+MDLZ,Mondelez,2025-05-27,departure,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1103982/000110398225000171/mdlz-20250520.htm
+MDLZ,Mondelez,2026-01-30,appointment,CHIEF FINANCIAL OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT | PRESIDENT | CFO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1103982/000162828026004388/mdlz-20260127.htm
+MMM,3M,2017-06-20,appointment,CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT | PRESIDENT | CHIEF EXECUTIVE OFFICER | CHIEF ACCOUNTING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000110465917040411/a17-15496_18k.htm
+MMM,3M,2017-08-14,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000110465917051808/a17-20156_18k.htm
+MMM,3M,2018-03-06,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000110465918015215/a18-7703_18k.htm
+MMM,3M,2018-05-09,appointment,COO | PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000110465918031666/a18-13222_18k.htm
+MMM,3M,2018-05-24,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K/A,https://www.sec.gov/Archives/edgar/data/66740/000110465918035756/a18-14317_18ka.htm
+MMM,3M,2018-08-13,appointment,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000110465918051383/a18-18732_18k.htm
+MMM,3M,2018-11-09,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000110465918067277/a18-39934_18k.htm
+MMM,3M,2019-02-07,transition,CHIEF EXECUTIVE OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000110465919006320/a19-4233_18k.htm
+MMM,3M,2019-03-18,appointment,PRESIDENT | CHIEF ACCOUNTING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000110465919015661/a19-6790_18k.htm
+MMM,3M,2020-01-28,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000110465920007714/tm205961-2_8k.htm
+MMM,3M,2020-06-03,departure,PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000110465920069216/tm2021663-1_8k.htm
+MMM,3M,2021-02-03,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000110465921011330/tm214183d3_8k.htm
+MMM,3M,2021-05-13,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000110465921065958/tm2116090d1_8k.htm
+MMM,3M,2021-10-21,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674021000003/mmm-20211015.htm
+MMM,3M,2021-11-12,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674021000018/mmm-20211108.htm
+MMM,3M,2022-02-09,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674022000014/mmm-20220208.htm
+MMM,3M,2022-05-24,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674022000046/mmm-20220521.htm
+MMM,3M,2023-02-08,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674023000010/mmm-20230207.htm
+MMM,3M,2023-04-25,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674023000026/mmm-20230425.htm
+MMM,3M,2023-05-15,transition,PRESIDENT | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674023000039/mmm-20230512.htm
+MMM,3M,2023-08-11,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674023000065/mmm-20230809.htm
+MMM,3M,2023-08-22,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674023000069/mmm-20230821.htm
+MMM,3M,2023-11-07,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674023000098/mmm-20231106.htm
+MMM,3M,2023-11-09,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674023000101/mmm-20231109.htm
+MMM,3M,2024-03-12,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674024000029/mmm-20240308.htm
+MMM,3M,2024-07-10,departure,PRESIDENT | CHIEF FINANCIAL OFFICER | CFO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674024000070/mmm-20240703.htm
+MMM,3M,2024-08-01,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674024000088/mmm-20240801.htm
+MMM,3M,2025-02-10,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674025000012/mmm-20250204.htm
+MMM,3M,2025-02-21,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674025000015/mmm-20250218.htm
+MMM,3M,2025-08-15,transition,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674025000068/mmm-20250811.htm
+MMM,3M,2026-02-05,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/66740/000006674026000037/mmm-20260203.htm
+NWL,Newell Brands,2017-02-14,appointment,CHIEF FINANCIAL OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT | PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/814453/000081445317000014/nwl8-k2017comp292017.htm
+NWL,Newell Brands,2017-08-10,transition,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/814453/000081445317000073/form8-krefirstamendmentto2.htm
+NWL,Newell Brands,2017-11-14,departure,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/814453/000081445317000088/a8-kresupplementalsavingsp.htm
+NWL,Newell Brands,2018-04-23,transition,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/814453/000119312518126033/d573182d8k.htm
+NWL,Newell Brands,2018-09-18,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/814453/000081445318000062/nwl-8xkdaviescompx9x14.htm
+NWL,,2019-04-01,departure,PRESIDENT | CHIEF EXECUTIVE OFFICER,Michael Polk,,
+NWL,Newell Brands,2022-02-11,appointment,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/814453/000081445322000012/nwl-20220211.htm
+NWL,Newell Brands,2025-02-19,appointment,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/814453/000095017025023244/nwl-20250217.htm
+PEP,PepsiCo,2018-08-06,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747618000057/form8-kaugust2018.htm
+PEP,PepsiCo,2018-08-17,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K/A,https://www.sec.gov/Archives/edgar/data/77476/000007747618000061/form8-kaaugust2018.htm
+PEP,PepsiCo,2018-12-21,departure,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747618000079/form8-kdecember2018.htm
+PEP,PepsiCo,2019-01-10,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747619000002/form8-kjanuary2019.htm
+PEP,PepsiCo,2019-03-07,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747619000020/form8-kmarch2019.htm
+PEP,PepsiCo,2019-03-18,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747619000022/form8-kmarch182019.htm
+PEP,PepsiCo,2019-06-11,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747619000051/form8-kjune52019.htm
+PEP,PepsiCo,2020-07-07,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747620000054/form8-kjuly2020.htm
+PEP,PepsiCo,2020-11-02,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747620000075/pep-20201030.htm
+PEP,PepsiCo,2021-08-05,appointment,COO | PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747621000044/pep-20210803.htm
+PEP,PepsiCo,2023-11-06,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747623000064/pep-20231101.htm
+PEP,PepsiCo,2023-11-17,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K/A,https://www.sec.gov/Archives/edgar/data/77476/000007747623000069/pep-20231101.htm
+PEP,PepsiCo,2024-01-18,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747624000003/pep-20240116.htm
+PEP,PepsiCo,2024-05-03,appointment,COO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747624000026/pep-20240501.htm
+PEP,PepsiCo,2024-10-08,transition,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747624000054/pep-20241004.htm
+PEP,PepsiCo,2024-12-11,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747624000058/pep-20241211.htm
+PEP,PepsiCo,2025-02-07,appointment,PRESIDENT,Unknown,8-K/A,https://www.sec.gov/Archives/edgar/data/77476/000007747625000012/pep-20241211.htm
+PEP,PepsiCo,2025-10-09,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747625000055/pep-20251003.htm
+PEP,PepsiCo,2025-12-15,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/77476/000007747625000062/pep-20251215.htm
+PG,Procter & Gamble,2017-04-12,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042417000018/changappointment.htm
+PG,Procter & Gamble,2017-05-17,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042417000030/louvetresignation.htm
+PG,Procter & Gamble,2017-12-15,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000119312517370870/d438518d8k.htm
+PG,Procter & Gamble,2018-02-16,appointment,unspecified,Unknown,8-K/A,https://www.sec.gov/Archives/edgar/data/80424/000008042418000015/directorcommitteeappointment.htm
+PG,Procter & Gamble,2018-06-13,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042418000040/staramendmentjuly2018.htm
+PG,Procter & Gamble,2018-06-20,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042418000041/giovanniciserani.htm
+PG,Procter & Gamble,2018-12-27,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042418000112/chenaultretirement.htm
+PG,Procter & Gamble,2019-02-13,transition,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042419000016/zedilloretirement.htm
+PG,Procter & Gamble,2019-10-11,transition,COO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042419000077/annualshareholder2019meeting.htm
+PG,Procter & Gamble,2020-08-12,appointment,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042420000061/leeappointment.htm
+PG,Procter & Gamble,2020-09-16,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042420000063/sheppardretirement.htm
+PG,Procter & Gamble,2020-12-09,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF OPERATING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042420000105/schultenannouncement.htm
+PG,Procter & Gamble,2021-02-09,departure,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042421000031/homanannouncement.htm
+PG,Procter & Gamble,2021-02-10,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042421000033/allenappointment.htm
+PG,Procter & Gamble,2021-06-11,appointment,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042421000070/bishopferguson.htm
+PG,Procter & Gamble,2021-07-29,departure,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER | CHIEF OPERATING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042421000078/cooceoannouncement.htm
+PG,Procter & Gamble,2021-08-05,transition,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042421000096/peltzannouncement.htm
+PG,Procter & Gamble,2021-12-10,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042421000138/whitmanannouncment2021.htm
+PG,Procter & Gamble,2022-01-12,appointment,PRESIDENT | CHIEF ACCOUNTING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042422000004/caoannouncement.htm
+PG,Procter & Gamble,2022-04-14,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042422000025/taylorretirement.htm
+PG,Procter & Gamble,2023-04-11,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042423000027/boniniportmanappointment.htm
+PG,Procter & Gamble,2023-12-13,appointment,PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042423000114/mcevoyannouncement.htm
+PG,Procter & Gamble,2024-04-09,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042424000030/bralyretirement.htm
+PG,Procter & Gamble,2025-06-09,appointment,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042425000052/arnoldannouncement.htm
+PG,Procter & Gamble,2025-07-28,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER | CHIEF OPERATING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042425000061/ceotransition.htm
+PG,Procter & Gamble,2025-08-14,transition,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042425000111/pg-20250814.htm
+PG,Procter & Gamble,2025-10-16,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042425000235/pg-20251016.htm
+PG,Procter & Gamble,2025-12-15,appointment,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/80424/000008042425000287/pg-20251215.htm
+RH,Restoration Hardware,2017-04-07,transition,CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1397187/000139718717000010/lulu-20170404x8k.htm
+RH,Restoration Hardware,2017-05-01,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1397187/000139718717000019/lulu-20170425x8k.htm
+RH,Restoration Hardware,2017-05-16,appointment,CHIEF FINANCIAL OFFICER | CHIEF OPERATING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1397187/000139718717000021/lulu-20170512x8k.htm
+RH,Restoration Hardware,2018-02-05,transition,COO | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1397187/000139718718000005/lulu-20180202x8k.htm
+RH,Restoration Hardware,2018-02-20,transition,CHIEF OPERATING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1397187/000139718718000007/lulu-20180214x8k.htm
+RH,Restoration Hardware,2019-07-17,transition,COO | CHIEF FINANCIAL OFFICER | CFO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1397187/000139718719000057/lulu-20190711x8k.htm
+RH,Restoration Hardware,2022-03-29,unknown,CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1397187/000139718722000013/lulu-20220323.htm
+RH,Restoration Hardware,2023-02-24,transition,CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1397187/000139718723000004/lulu-20230220.htm
+RH,Restoration Hardware,2025-11-21,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1397187/000139718725000047/lulu-20251117.htm
+RH,Restoration Hardware,2026-03-17,appointment,CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000017/lulu-20260313.htm
+RH,Restoration Hardware,2026-04-22,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000070/lulu-20260421.htm
+RH,Restoration Hardware,2026-04-28,appointment,PRESIDENT | CEO | EXECUTIVE VICE PRESIDENT | CHIEF OPERATING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1397187/000121390026048264/ea0287949-8k_lululemon.htm
+W,Wayfair,2017-09-21,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000095010317009073/dp80657_8k.htm
+W,Wayfair,2017-11-09,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000095010317011030/dp82705_8k.htm
+W,Wayfair,2018-01-22,departure,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000095010318000677/dp85418_8k.htm
+W,Wayfair,2018-03-14,departure,PRESIDENT | CHIEF EXECUTIVE OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000095010318003366/dp88164_8k.htm
+W,Wayfair,2020-08-13,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER | CEO | CHIEF OPERATING OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000095010320015787/dp134424_8k.htm
+W,Wayfair,2020-09-03,departure,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000095010320017431/dp136049_8k.htm
+W,Wayfair,2020-10-02,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000095010320019568/dp138233_8k.htm
+W,Wayfair,2021-02-02,transition,CHIEF FINANCIAL OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT | PRESIDENT | CFO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000095010321001561/dp145446_8k.htm
+W,Wayfair,2021-04-05,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF OPERATING OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000095010321005235/dp14977_8k.htm
+W,Wayfair,2021-04-21,transition,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000095010321005867/dp149609_8k.htm
+W,Wayfair,2021-12-14,departure,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000119312521356865/d270664d8k.htm
+W,Wayfair,2024-04-09,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000162828024015443/sgh-20240408.htm
+W,Wayfair,2024-05-14,unknown,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000119312524138236/d839358d8k.htm
+W,Wayfair,2024-06-26,departure,PRESIDENT | CHIEF FINANCIAL OFFICER | CFO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000162828024029986/sgh-20240626.htm
+W,Wayfair,2025-04-02,departure,CHIEF OPERATING OFFICER | COO | EXECUTIVE VICE PRESIDENT | PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/1616533/000162828025016180/peng-20250401.htm
+WHR,Whirlpool,2018-07-25,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/106640/000010664018000063/whr72520188-k.htm
+WHR,Whirlpool,2018-12-17,transition,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/106640/000010664018000081/whr1217188-k.htm
+WHR,Whirlpool,2019-09-16,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/106640/000162828019011748/whr91620198-k.htm
+WHR,Whirlpool,2019-10-17,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/106640/000010664019000128/whr101420198-k.htm
+WHR,Whirlpool,2020-02-20,appointment,unspecified,Unknown,8-K/A,https://www.sec.gov/Archives/edgar/data/106640/000010664020000044/whr22020208-ka.htm
+WHR,Whirlpool,2023-04-20,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/106640/000010664023000058/whr-20230418.htm
+WHR,Whirlpool,2024-04-23,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/106640/000010664024000091/whr-20240422.htm
+WHR,Whirlpool,2025-02-18,transition,unspecified,Unknown,8-K/A,https://www.sec.gov/Archives/edgar/data/106640/000010664025000017/whr-20250213.htm
+WHR,Whirlpool,2025-02-18,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/106640/000010664025000014/whr-20250217.htm
+WHR,Whirlpool,2025-04-16,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/106640/000010664025000043/whr-20250415.htm
+WHR,Whirlpool,2025-06-17,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/106640/000010664025000086/whr-20250617.htm
+WHR,Whirlpool,2025-08-19,appointment,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/106640/000010664025000127/whr-20250819.htm
+WHR,Whirlpool,2026-03-16,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/106640/000010664026000012/whr-20260313.htm
+WHR,Whirlpool,2026-04-01,transition,COO | PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/106640/000010664026000015/whr-20260330.htm
+WHR,Whirlpool,2026-04-03,transition,COO | PRESIDENT | EXECUTIVE VICE PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/106640/000010664026000017/whr-20260330.htm
+WSM,Williams-Sonoma,2017-08-01,transition,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000114036117029621/form8k.htm
+WSM,Williams-Sonoma,2017-12-06,transition,PRESIDENT | CHIEF FINANCIAL OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000162828017012136/a8-k120517.htm
+WSM,Williams-Sonoma,2018-10-11,departure,PRESIDENT | CHIEF EXECUTIVE OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000094511418000015/systemax8-k10112018.htm
+WSM,Williams-Sonoma,2019-01-09,appointment,CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000094511419000003/a8-knewdirector.htm
+WSM,Williams-Sonoma,2021-02-23,departure,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000094511421000005/syx-20210222.htm
+WSM,Williams-Sonoma,2021-08-31,appointment,PRESIDENT,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000094511421000056/gic-20210826.htm
+WSM,Williams-Sonoma,2021-10-08,appointment,PRESIDENT | CHIEF FINANCIAL OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000094511421000058/gic-20211006.htm
+WSM,Williams-Sonoma,2022-07-06,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000094511422000055/gic-20220701.htm
+WSM,Williams-Sonoma,2023-01-31,transition,unspecified,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000094511423000009/gic-20230127.htm
+WSM,Williams-Sonoma,2023-02-24,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000094511423000024/gic-20230221.htm
+WSM,Williams-Sonoma,2024-02-20,appointment,PRESIDENT | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000094511424000006/gic-20240214.htm
+WSM,Williams-Sonoma,2024-03-05,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000094511424000012/gic-20240228.htm
+WSM,Williams-Sonoma,2024-07-11,transition,PRESIDENT | CHIEF EXECUTIVE OFFICER | CEO,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000094511424000042/gic-20240710.htm
+WSM,Williams-Sonoma,2025-02-10,appointment,COO | CEO | PRESIDENT | CHIEF EXECUTIVE OFFICER | PRINCIPAL EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000094511425000006/gic-20250207.htm
+WSM,Williams-Sonoma,2025-08-08,transition,PRESIDENT | CHIEF FINANCIAL OFFICER | CHIEF EXECUTIVE OFFICER,Unknown,8-K,https://www.sec.gov/Archives/edgar/data/945114/000094511425000044/gic-20250807.htm
